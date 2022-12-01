@@ -1,0 +1,178 @@
+/*   IMPORTANDO VARIÁVEIS, MEDIA-QUERIES E OUTROS CONTEÚDOS REUTILIZÁVEIS   */
+@import "variables.scss";
+@import "mobile.scss";
+
+/*   TIPOGRAFIA   */
+h1, h2, h3, h4, h5, h6, table, input, select, button, textarea{
+    font-family: $fonteHeader;
+}
+p, b, li, label, a{
+    font-family: $fonteDefault;
+}
+
+h1{
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: -0.26px;
+}
+
+label, input, select, button{
+    font-size: 14px;
+}
+
+::v-deep label {
+ margin-bottom: 0px;
+}
+
+button{
+    font-weight: 600;
+}
+
+/*   TABELAS  */
+table{
+    color: $fonteCinzaEscuro;
+    font-size: 12px;
+    border: 1px solid $bordaCinza;
+    border-radius: 5px;
+    thead{
+        background-color: $fundoCinzaClaro;
+    }
+    th, td{
+        height:45px;
+    }
+}
+
+/*  BOTÕES  */
+.btn-padrao {
+    width: 124px;
+    height: 40px;
+}
+.btn-padrao-altura {
+    height: 40px;
+}
+.btn-padrao-tamanho {
+    width: 124px;
+}
+
+// Telas de consulta e listagem de sinistros
+//  - buscarSinistroParaComunicar
+//  - listaAvisoAbertoPorCorretor
+.container-geral{
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:30px;
+    padding: 30px 50px;
+    background-color: $fundoBranco;
+    box-shadow: 0px 0px 8px #0000000F;
+    border: 1px solid #D2D4DA;
+    border-radius: 0px 0px 5px 5px;
+    min-height:400px;
+    .container-header{
+        padding-top:10px;
+    }
+    .container-content{
+        padding-top:10px;
+    }
+    h1{
+        display: flex;
+        align-items: center;
+        color: $vermelho;
+        img{
+            padding-right:15px;
+            vertical-align: bottom;
+        }
+    }
+    label{
+        color: $fonteCinzaEscuro;
+        padding-bottom:5px;
+        margin-left:2px;
+    }
+}
+
+
+.container-especificacoes{
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:30px;
+    padding: 30px 50px;
+    background-color: $fundoBranco;
+    box-shadow: 0px 0px 8px #0000000F;
+    border: 1px solid #D2D4DA;
+    border-radius: 0px 0px 5px 5px;
+    min-height:400px;
+
+    .container-content {
+        margin-top:20px;
+    
+        h1{
+            line-height:42px;
+            font-size:32px;
+            padding-left:0px;
+        }
+        h2{
+            font-size:17px;
+            font-weight:normal;
+            margin-bottom:25px;
+        }      
+        label {
+            font-size:13px;
+        }
+        input, select{
+            font-size:12px;
+            height: 35px;
+        }
+    }
+}
+
+.container-coberturas{
+    width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:30px;
+    padding: 30px 50px;
+    background-color: $fundoBranco;
+    box-shadow: 0px 0px 8px #0000000F;
+    border: 1px solid #D2D4DA;
+    border-radius: 0px 0px 5px 5px;
+    min-height:400px;
+
+    .container-content {
+        margin-top:20px;
+    
+        h1{
+            font-size: xx-large;
+            font-weight:600;
+        }
+
+        h2{
+            font-weight:normal;
+            margin-bottom:25px;
+        }
+    }
+}
+
+/*   ELEMENTOS GLOBAIS   */
+.menu-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+// Correçao de bug do bootstrap onde coloca
+// o vertical-align: top, na table~td
+table {
+    td {
+        vertical-align: middle;
+    }
+}
+
+.w-60 {
+    width: 60%;
+  }
+
+  // VARIAVEIS NATIVAS
+  :root {
+    --bs-pn-red: #e1173f;
+    --bs-pn-blue: #0b67bd;
+  }

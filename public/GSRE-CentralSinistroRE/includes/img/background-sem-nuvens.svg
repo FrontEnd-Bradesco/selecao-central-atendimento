@@ -1,0 +1,2089 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2249 899" width="2249" height="899">
+	<title>background-sem-nuvens-svg</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="1124.3" y1="170" x2="1124.3" y2="898.6">
+			<stop offset="0" stop-color="#e3f1ff"  />
+			<stop offset="1" stop-color="#80c0ff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: url(#grd1) } 
+		.s1 { fill: #c6e2ff } 
+		.s2 { fill: none;stroke: #92c8fe;stroke-width: 2 } 
+		.s3 { fill: #ffffff } 
+		.s4 { fill: #b7dbff } 
+		.s5 { fill: none;stroke: #777777;stroke-linecap:round;stroke-width: 2 } 
+		.s6 { fill: #d6eaff } 
+		.s7 { fill: #b4ffbc } 
+		.s8 { fill: #777777 } 
+		.s9 { fill: none;stroke: #777777 } 
+		.s10 { fill: none;stroke: #777777;stroke-width: 2 } 
+		.s11 { fill: #ffffff;stroke: #777777 } 
+		.s12 { fill: none;stroke: #777777;stroke-linecap:round } 
+		.s13 { fill: #92c8fe } 
+		.s14 { fill: none;stroke: #b7dbff;stroke-width: 2 } 
+		.s15 { fill: none;stroke: #92c8fe } 
+		.s16 { fill: none;stroke: #b7dbff } 
+	</style>
+	<g id="BG">
+		<path id="Caminho_13" class="s0" d="m153.41 200c0 0 45-54 122-17c77 37 119 148 119 148c0 0 55 105 212 57c157-48 308-122 469-83c161 39 145 96 351 39c206-57 637-193 723-85c86 108 87 548 87 548c0 0 39 39-23 62c-62 23-1000 8-1000 8c0 0-1155 42-1155 9c0-33-97-154-41-304c56-150 136-382 136-382h0z" />
+		<g id="Retângulo_283">
+			<path id="Layer" class="s1" d="m533.41 500h120v279h-120v-279z" />
+			<path id="Layer" class="s2" d="m534.41 501h118v277h-118v-277z" />
+		</g>
+		<g id="Subtração_4" style="opacity: .4">
+			<path id="Layer" class="s3" d="m534.41 776h-68v-252.59l68 37.69v214.9v0z" />
+			<path id="Layer" fill-rule="evenodd" class="s4" d="m535.41 777h-70v-255.29l70 38.8v216.49zm-2-215.31l-66-36.58v249.9h66v-213.32z" />
+		</g>
+		<g id="Grupo_8" style="opacity: .2">
+			<g id="Subtração_1">
+			</g>
+		</g>
+		<g id="Grupo_10" style="opacity: .2">
+		</g>
+		<g id="Grupo_9">
+		</g>
+		<g id="Grupo_6" style="opacity: .2">
+			<g id="Subtração_2">
+			</g>
+			<path id="Caminho_8" class="s5" d="m1919.04 39.09h-6.9" />
+		</g>
+		<g id="Grupo_7" style="opacity: .2">
+		</g>
+		<g id="Grupo_11" style="opacity: .3">
+		</g>
+		<g id="Grupo_12" style="opacity: .3">
+		</g>
+		<g id="Grupo_94">
+			<g id="Grupo_77">
+				<g id="Grupo_3">
+					<g id="Retângulo_148">
+						<path id="Layer" class="s1" d="m351.87 412h102.2v62.89h-102.2v-62.89z" />
+						<path id="Layer" class="s2" d="m352.87 413h100.2v60.89h-100.2v-60.89z" />
+					</g>
+					<g id="Retângulo_147">
+						<path id="Layer" class="s1" d="m329.41 463.66h147.12v313.34h-147.12v-313.34z" />
+						<path id="Layer" class="s2" d="m330.41 464.66h145.12v311.34h-145.12v-311.34z" />
+					</g>
+					<g id="Retângulo_149">
+						<path id="Layer" class="s6" d="m363.41 420h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m364.41 421h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_150">
+						<path id="Layer" class="s6" d="m363.41 431h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m364.41 432h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_151">
+						<path id="Layer" class="s6" d="m363.41 442h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m364.41 443h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_152">
+						<path id="Layer" class="s6" d="m363.41 453h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m364.41 454h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_278">
+						<path id="Layer" class="s1" d="m385.41 743h36v34h-36v-34z" />
+						<path id="Layer" class="s2" d="m386.41 744h34v32h-34v-32z" />
+					</g>
+				</g>
+				<g id="Grupo_76">
+					<g id="Grupo_40">
+						<g id="Grupo_14">
+							<g id="Retângulo_5">
+								<path id="Layer" class="s6" d="m341.41 473h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 474h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8">
+								<path id="Layer" class="s6" d="m341.41 484h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 485h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_41">
+						<g id="Grupo_14-2">
+							<g id="Retângulo_5-2">
+								<path id="Layer" class="s6" d="m429.41 473h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 474h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-2">
+								<path id="Layer" class="s6" d="m429.41 484h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 485h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_42">
+						<g id="Grupo_14-3">
+							<g id="Retângulo_5-3">
+								<path id="Layer" class="s6" d="m385.41 473h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 474h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-3">
+								<path id="Layer" class="s6" d="m385.41 484h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 485h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_43">
+						<g id="Grupo_14-4">
+							<g id="Retângulo_5-4">
+								<path id="Layer" class="s6" d="m341.41 494h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 495h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-4">
+								<path id="Layer" class="s6" d="m341.41 505h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 506h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_44">
+						<g id="Grupo_14-5">
+							<g id="Retângulo_5-5">
+								<path id="Layer" class="s6" d="m429.41 494h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 495h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-5">
+								<path id="Layer" class="s6" d="m429.41 505h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 506h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_45">
+						<g id="Grupo_14-6">
+							<g id="Retângulo_5-6">
+								<path id="Layer" class="s6" d="m385.41 494h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 495h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-6">
+								<path id="Layer" class="s6" d="m385.41 505h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 506h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_46">
+						<g id="Grupo_14-7">
+							<g id="Retângulo_5-7">
+								<path id="Layer" class="s6" d="m341.41 515h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 516h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-7">
+								<path id="Layer" class="s6" d="m341.41 526h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 527h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_47">
+						<g id="Grupo_14-8">
+							<g id="Retângulo_5-8">
+								<path id="Layer" class="s6" d="m429.41 515h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 516h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-8">
+								<path id="Layer" class="s6" d="m429.41 526h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 527h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_48">
+						<g id="Grupo_14-9">
+							<g id="Retângulo_5-9">
+								<path id="Layer" class="s6" d="m385.41 515h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 516h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-9">
+								<path id="Layer" class="s6" d="m385.41 526h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 527h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_49">
+						<g id="Grupo_14-10">
+							<g id="Retângulo_5-10">
+								<path id="Layer" class="s6" d="m341.41 536h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 537h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-10">
+								<path id="Layer" class="s6" d="m341.41 547h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 548h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_50">
+						<g id="Grupo_14-11">
+							<g id="Retângulo_5-11">
+								<path id="Layer" class="s6" d="m429.41 536h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 537h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-11">
+								<path id="Layer" class="s6" d="m429.41 547h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 548h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_51">
+						<g id="Grupo_14-12">
+							<g id="Retângulo_5-12">
+								<path id="Layer" class="s6" d="m385.41 536h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 537h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-12">
+								<path id="Layer" class="s6" d="m385.41 547h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 548h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_52">
+						<g id="Grupo_14-13">
+							<g id="Retângulo_5-13">
+								<path id="Layer" class="s6" d="m341.41 557h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 558h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-13">
+								<path id="Layer" class="s6" d="m341.41 568h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 569h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_53">
+						<g id="Grupo_14-14">
+							<g id="Retângulo_5-14">
+								<path id="Layer" class="s6" d="m429.41 557h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 558h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-14">
+								<path id="Layer" class="s6" d="m429.41 568h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 569h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_54">
+						<g id="Grupo_14-15">
+							<g id="Retângulo_5-15">
+								<path id="Layer" class="s6" d="m385.41 557h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 558h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-15">
+								<path id="Layer" class="s6" d="m385.41 568h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 569h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_55">
+						<g id="Grupo_14-16">
+							<g id="Retângulo_5-16">
+								<path id="Layer" class="s6" d="m341.41 578h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 579h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-16">
+								<path id="Layer" class="s6" d="m341.41 589h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 590h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_56">
+						<g id="Grupo_14-17">
+							<g id="Retângulo_5-17">
+								<path id="Layer" class="s6" d="m429.41 578h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 579h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-17">
+								<path id="Layer" class="s6" d="m429.41 589h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 590h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_57">
+						<g id="Grupo_14-18">
+							<g id="Retângulo_5-18">
+								<path id="Layer" class="s6" d="m385.41 578h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 579h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-18">
+								<path id="Layer" class="s6" d="m385.41 589h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 590h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_58">
+						<g id="Grupo_14-19">
+							<g id="Retângulo_5-19">
+								<path id="Layer" class="s6" d="m341.41 599h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 600h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-19">
+								<path id="Layer" class="s6" d="m341.41 610h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 611h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_59">
+						<g id="Grupo_14-20">
+							<g id="Retângulo_5-20">
+								<path id="Layer" class="s6" d="m429.41 599h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 600h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-20">
+								<path id="Layer" class="s6" d="m429.41 610h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 611h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_60">
+						<g id="Grupo_14-21">
+							<g id="Retângulo_5-21">
+								<path id="Layer" class="s6" d="m385.41 599h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 600h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-21">
+								<path id="Layer" class="s6" d="m385.41 610h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 611h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_61">
+						<g id="Grupo_14-22">
+							<g id="Retângulo_5-22">
+								<path id="Layer" class="s6" d="m341.41 620h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 621h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-22">
+								<path id="Layer" class="s6" d="m341.41 631h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 632h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_62">
+						<g id="Grupo_14-23">
+							<g id="Retângulo_5-23">
+								<path id="Layer" class="s6" d="m429.41 620h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 621h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-23">
+								<path id="Layer" class="s6" d="m429.41 631h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 632h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_63">
+						<g id="Grupo_14-24">
+							<g id="Retângulo_5-24">
+								<path id="Layer" class="s6" d="m385.41 620h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 621h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-24">
+								<path id="Layer" class="s6" d="m385.41 631h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 632h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_64">
+						<g id="Grupo_14-25">
+							<g id="Retângulo_5-25">
+								<path id="Layer" class="s6" d="m341.41 641h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 642h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-25">
+								<path id="Layer" class="s6" d="m341.41 652h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 653h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_65">
+						<g id="Grupo_14-26">
+							<g id="Retângulo_5-26">
+								<path id="Layer" class="s6" d="m429.41 641h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 642h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-26">
+								<path id="Layer" class="s6" d="m429.41 652h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 653h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_66">
+						<g id="Grupo_14-27">
+							<g id="Retângulo_5-27">
+								<path id="Layer" class="s6" d="m385.41 641h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 642h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-27">
+								<path id="Layer" class="s6" d="m385.41 652h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 653h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_67">
+						<g id="Grupo_14-28">
+							<g id="Retângulo_5-28">
+								<path id="Layer" class="s6" d="m341.41 662h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 663h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-28">
+								<path id="Layer" class="s6" d="m341.41 673h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 674h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_68">
+						<g id="Grupo_14-29">
+							<g id="Retângulo_5-29">
+								<path id="Layer" class="s6" d="m429.41 662h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 663h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-29">
+								<path id="Layer" class="s6" d="m429.41 673h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 674h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_69">
+						<g id="Grupo_14-30">
+							<g id="Retângulo_5-30">
+								<path id="Layer" class="s6" d="m385.41 662h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 663h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-30">
+								<path id="Layer" class="s6" d="m385.41 673h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 674h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_70">
+						<g id="Grupo_14-31">
+							<g id="Retângulo_5-31">
+								<path id="Layer" class="s6" d="m341.41 683h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 684h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-31">
+								<path id="Layer" class="s6" d="m341.41 694h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 695h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_71">
+						<g id="Grupo_14-32">
+							<g id="Retângulo_5-32">
+								<path id="Layer" class="s6" d="m429.41 683h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 684h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-32">
+								<path id="Layer" class="s6" d="m429.41 694h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 695h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_72">
+						<g id="Grupo_14-33">
+							<g id="Retângulo_5-33">
+								<path id="Layer" class="s6" d="m385.41 683h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 684h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-33">
+								<path id="Layer" class="s6" d="m385.41 694h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 695h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_73">
+						<g id="Grupo_14-34">
+							<g id="Retângulo_5-34">
+								<path id="Layer" class="s6" d="m341.41 704h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m342.41 705h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-34">
+								<path id="Layer" class="s6" d="m341.41 715h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m342.41 716h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_74">
+						<g id="Grupo_14-35">
+							<g id="Retângulo_5-35">
+								<path id="Layer" class="s6" d="m429.41 704h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m430.41 705h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-35">
+								<path id="Layer" class="s6" d="m429.41 715h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m430.41 716h33v3h-33v-3z" />
+							</g>
+						</g>
+						<path id="Subtração_12" class="s6" d="m441.75 715h-5.01l7.53-10h5.01l-7.53 10z" />
+						<path id="Subtração_14" class="s6" d="m449.75 715h-5.01l7.53-10h5.01l-7.53 10z" />
+					</g>
+					<g id="Grupo_75">
+						<g id="Grupo_14-36">
+							<g id="Retângulo_5-36">
+								<path id="Layer" class="s6" d="m385.41 704h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m386.41 705h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-36">
+								<path id="Layer" class="s6" d="m385.41 715h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m386.41 716h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Retângulo_293">
+				<path id="Layer" class="s1" d="m400.41 371h5v42h-5v-42z" />
+				<path id="Layer" class="s2" d="m401.41 372h3v40h-3v-40z" />
+			</g>
+		</g>
+		<g id="Grupo_92">
+			<g id="Retângulo_2">
+				<path id="Layer" class="s1" d="m222.41 486h96v291h-96v-291h0z" />
+				<path id="Layer" class="s2" d="m223.41 487h94v289h-94v-289h0z" />
+			</g>
+			<g id="Retângulo_3">
+				<path id="Layer" class="s1" d="m218.41 475h103v13h-103v-13h0z" />
+				<path id="Layer" class="s2" d="m219.41 476h101v11h-101v-11h0z" />
+			</g>
+			<g id="Grupo_13">
+				<g id="Retângulo_4">
+					<path id="Layer" class="s6" d="m230.41 494h80v15h-80v-15h0z" />
+					<path id="Layer" class="s2" d="m231.41 495h78v13h-78v-13h0z" />
+				</g>
+				<g id="Retângulo_7">
+					<path id="Layer" class="s6" d="m230.41 506h80v6h-80v-6h0z" />
+					<path id="Layer" class="s2" d="m231.41 507h78v4h-78v-4h0z" />
+				</g>
+			</g>
+			<g id="Retângulo_42">
+				<path id="Layer" class="s1" d="m252.41 742h36v34h-36v-34h0z" />
+				<path id="Layer" class="s2" d="m253.41 743h34v32h-34v-32h0z" />
+			</g>
+			<g id="Grupo_22">
+				<g id="Grupo_14-37">
+					<g id="Retângulo_5-37">
+						<path id="Layer" class="s6" d="m230.41 519h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 520h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-37">
+						<path id="Layer" class="s6" d="m230.41 530h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 531h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_23">
+				<g id="Grupo_14-38">
+					<g id="Retângulo_5-38">
+						<path id="Layer" class="s6" d="m275.41 519h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 520h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-38">
+						<path id="Layer" class="s6" d="m275.41 530h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 531h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_24">
+				<g id="Grupo_14-39">
+					<g id="Retângulo_5-39">
+						<path id="Layer" class="s6" d="m275.41 542h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 543h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-39">
+						<path id="Layer" class="s6" d="m275.41 553h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 554h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_25">
+				<g id="Grupo_14-40">
+					<g id="Retângulo_5-40">
+						<path id="Layer" class="s6" d="m230.41 542h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 543h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-40">
+						<path id="Layer" class="s6" d="m230.41 553h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 554h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_26">
+				<g id="Grupo_14-41">
+					<g id="Retângulo_5-41">
+						<path id="Layer" class="s6" d="m230.41 564h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 565h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-41">
+						<path id="Layer" class="s6" d="m230.41 575h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 576h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_27">
+				<g id="Grupo_14-42">
+					<g id="Retângulo_5-42">
+						<path id="Layer" class="s6" d="m275.41 564h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 565h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-42">
+						<path id="Layer" class="s6" d="m275.41 575h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 576h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_28">
+				<g id="Grupo_14-43">
+					<g id="Retângulo_5-43">
+						<path id="Layer" class="s6" d="m275.41 587h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 588h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-43">
+						<path id="Layer" class="s6" d="m275.41 598h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 599h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_29">
+				<g id="Grupo_14-44">
+					<g id="Retângulo_5-44">
+						<path id="Layer" class="s6" d="m230.41 587h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 588h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-44">
+						<path id="Layer" class="s6" d="m230.41 598h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 599h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_30">
+				<g id="Grupo_14-45">
+					<g id="Retângulo_5-45">
+						<path id="Layer" class="s6" d="m230.41 610h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 611h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-45">
+						<path id="Layer" class="s6" d="m230.41 621h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 622h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_31">
+				<g id="Grupo_14-46">
+					<g id="Retângulo_5-46">
+						<path id="Layer" class="s6" d="m275.41 610h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 611h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-46">
+						<path id="Layer" class="s6" d="m275.41 621h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 622h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_32">
+				<g id="Grupo_14-47">
+					<g id="Retângulo_5-47">
+						<path id="Layer" class="s6" d="m275.41 633h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 634h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-47">
+						<path id="Layer" class="s6" d="m275.41 644h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 645h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_33">
+				<g id="Grupo_14-48">
+					<g id="Retângulo_5-48">
+						<path id="Layer" class="s6" d="m230.41 633h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 634h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-48">
+						<path id="Layer" class="s6" d="m230.41 644h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 645h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_34">
+				<g id="Grupo_14-49">
+					<g id="Retângulo_5-49">
+						<path id="Layer" class="s6" d="m230.41 655h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 656h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-49">
+						<path id="Layer" class="s6" d="m230.41 666h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 667h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_35">
+				<g id="Grupo_14-50">
+					<g id="Retângulo_5-50">
+						<path id="Layer" class="s6" d="m275.41 655h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 656h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-50">
+						<path id="Layer" class="s6" d="m275.41 666h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 667h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_36">
+				<g id="Grupo_14-51">
+					<g id="Retângulo_5-51">
+						<path id="Layer" class="s6" d="m275.41 678h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 679h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-51">
+						<path id="Layer" class="s6" d="m275.41 689h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 690h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_37">
+				<g id="Grupo_14-52">
+					<g id="Retângulo_5-52">
+						<path id="Layer" class="s6" d="m230.41 678h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 679h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-52">
+						<path id="Layer" class="s6" d="m230.41 689h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 690h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_38">
+				<g id="Grupo_14-53">
+					<g id="Retângulo_5-53">
+						<path id="Layer" class="s6" d="m275.41 700h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m276.41 701h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-53">
+						<path id="Layer" class="s6" d="m275.41 711h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m276.41 712h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_39">
+				<g id="Grupo_14-54">
+					<g id="Retângulo_5-54">
+						<path id="Layer" class="s6" d="m230.41 700h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m231.41 701h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-54">
+						<path id="Layer" class="s6" d="m230.41 711h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m231.41 712h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="Retângulo_356">
+			<path id="Layer" class="s6" d="m533.41 472h120v30h-120v-30z" />
+			<path id="Layer" class="s2" d="m534.41 473h118v28h-118v-28z" />
+		</g>
+		<g id="Grupo_78">
+			<g id="Retângulo_355">
+				<path id="Layer" class="s6" d="m544.41 524h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 525h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5" class="s2" d="m593.91 524.5v14" />
+		</g>
+		<g id="Grupo_79">
+			<g id="Retângulo_355-2">
+				<path id="Layer" class="s6" d="m544.41 545h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 546h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-2" class="s2" d="m593.91 545.5v14" />
+		</g>
+		<g id="Grupo_80">
+			<g id="Retângulo_355-3">
+				<path id="Layer" class="s6" d="m544.41 566h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 567h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-3" class="s2" d="m593.91 566.5v14" />
+		</g>
+		<g id="Grupo_81">
+			<g id="Retângulo_355-4">
+				<path id="Layer" class="s6" d="m544.41 587h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 588h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-4" class="s2" d="m593.91 587.5v14" />
+		</g>
+		<g id="Grupo_82">
+			<g id="Retângulo_355-5">
+				<path id="Layer" class="s6" d="m544.41 608h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 609h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-5" class="s2" d="m593.91 608.5v14" />
+		</g>
+		<g id="Grupo_83">
+			<g id="Retângulo_355-6">
+				<path id="Layer" class="s6" d="m544.41 629h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 630h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-6" class="s2" d="m593.91 629.5v14" />
+		</g>
+		<g id="Grupo_84">
+			<g id="Retângulo_355-7">
+				<path id="Layer" class="s6" d="m544.41 650h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 651h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-7" class="s2" d="m593.91 650.5v14" />
+		</g>
+		<g id="Grupo_85">
+			<g id="Retângulo_355-8">
+				<path id="Layer" class="s6" d="m544.41 671h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 672h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-8" class="s2" d="m593.91 671.5v14" />
+		</g>
+		<g id="Grupo_86">
+			<g id="Retângulo_355-9">
+				<path id="Layer" class="s6" d="m544.41 692h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 693h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-9" class="s2" d="m593.91 692.5v14" />
+		</g>
+		<g id="Grupo_87">
+			<g id="Retângulo_355-10">
+				<path id="Layer" class="s6" d="m544.41 713h98v15h-98v-15z" />
+				<path id="Layer" class="s2" d="m545.41 714h96v13h-96v-13z" />
+			</g>
+			<path id="Linha_5-10" class="s2" d="m593.91 713.5v14" />
+			<g id="Retângulo_371" style="opacity: .6">
+				<path id="Layer" class="s1" d="m573.41 739h42v37h-42v-37z" />
+				<path id="Layer" class="s2" d="m574.41 740h40v35h-40v-35z" />
+			</g>
+		</g>
+		<g id="Grupo_88">
+			<g id="União_38">
+				<path id="Layer" class="s7" d="m204.23 760c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.06c-0.32 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.96l-0.96 0.12c-0.23 0.03-0.46 0.04-0.7 0.04c-2.99 0-5.42-2.43-5.42-5.42c0-1 0.27-1.98 0.79-2.83l0.55-0.9l-0.92-0.5c-2.9-1.58-4.7-4.6-4.7-7.9c0-3 1.49-5.78 3.98-7.46l0.6-0.41l-0.2-0.7c-0.07-0.23-0.1-0.47-0.1-0.71c0-1.28 0.95-2.37 2.21-2.54l1.06-0.15l-0.22-1.05c-0.13-0.64-0.2-1.31-0.2-1.97c0-5.35 4.35-9.7 9.7-9.7c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.58 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.2-0.02 0.4-0.03 0.59-0.03c1.47 0 2.9 0.53 4.01 1.5c1.1 0.95 1.83 2.27 2.05 3.7l0.1 0.66l0.65 0.16c2.21 0.55 4.22 1.85 5.64 3.65c1.47 1.85 2.24 4.09 2.24 6.46c0 0.81-0.09 1.62-0.28 2.41l-0.16 0.67l0.57 0.39c1.7 1.14 2.72 3.05 2.72 5.09c0 2.01-0.99 3.89-2.64 5.04l-0.55 0.38l0.14 0.65c0.13 0.58 0.19 1.17 0.19 1.77c0 4.42-3.45 8.05-7.86 8.26l-1.2 0.06l0.28 1.17c0.15 0.62 0.22 1.27 0.22 1.92c0 4.56-3.71 8.27-8.27 8.27c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7l0.01 0.02z" />
+				<path id="Layer" fill-rule="evenodd" class="s8" d="m197.47 758.08c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.27 0.03-0.54 0.05-0.82 0.05c-3.54 0-6.42-2.87-6.42-6.42c0-1.23 0.34-2.37 0.94-3.35c-3.11-1.69-5.22-4.99-5.22-8.78c0-3.45 1.75-6.5 4.42-8.29c-0.09-0.31-0.14-0.64-0.14-0.98c0-1.8 1.34-3.29 3.08-3.53c-0.14-0.7-0.22-1.43-0.22-2.17c0-5.91 4.79-10.7 10.7-10.7c0.64 0 1.26 0.06 1.86 0.16c1.77-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.7 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.57 0 6.53 2.62 7.05 6.05c4.96 1.24 8.64 5.73 8.64 11.07c0 0.91-0.11 1.79-0.31 2.64c1.9 1.28 3.16 3.46 3.16 5.92c0 2.43-1.21 4.57-3.07 5.86c0.14 0.64 0.21 1.3 0.21 1.98c0 4.97-3.9 9.02-8.81 9.26c0.16 0.69 0.25 1.41 0.25 2.15c0 5.12-4.15 9.27-9.27 9.27c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92zm6.76 0.92c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c4.01 0 7.27-3.26 7.27-7.27c0-0.57-0.07-1.14-0.2-1.69l-0.56-2.34l2.4-0.12c3.87-0.19 6.91-3.38 6.91-7.26c0-0.53-0.06-1.05-0.17-1.56l-0.28-1.31l1.1-0.76c1.38-0.96 2.21-2.54 2.21-4.22c0-1.71-0.85-3.31-2.27-4.26l-1.15-0.77l0.32-1.35c0.17-0.71 0.25-1.44 0.25-2.18c0-2.14-0.7-4.16-2.03-5.84c-1.29-1.63-3.1-2.8-5.1-3.3l-1.29-0.32l-0.2-1.32c-0.18-1.2-0.79-2.3-1.72-3.1c-0.93-0.81-2.12-1.25-3.36-1.25c-0.17 0-0.33 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.5-0.09-1.01-0.13-1.52-0.13c-4.8 0-8.7 3.9-8.7 8.7c0 0.6 0.06 1.19 0.18 1.77l0.43 2.09l-2.12 0.29c-0.77 0.11-1.35 0.77-1.35 1.55c0 0.15 0.02 0.29 0.06 0.43l0.4 1.4l-1.21 0.81c-2.21 1.49-3.53 3.97-3.53 6.63c0 2.93 1.6 5.62 4.18 7.02l1.85 1.01l-1.1 1.8c-0.42 0.69-0.65 1.49-0.65 2.3c0 2.44 1.98 4.42 4.42 4.42c0.19 0 0.38-0.01 0.57-0.04l1.92-0.25l0.31 1.91c0.25 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.84-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29l0.02 0.02z" />
+			</g>
+			<path id="Linha_6" class="s5" d="m204.91 731.5v45" />
+			<path id="Linha_7" class="s5" d="m204.91 751.5l11-8" />
+			<path id="Linha_8" class="s5" d="m204.91 745.5l-10-8" />
+		</g>
+		<g id="Grupo_89">
+			<g id="União_39">
+				<path id="Layer" class="s7" d="m342.23 760c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-2.94 0-5.63-1.72-6.87-4.39l-1.07-2.31l-0.79 2.42c-0.54 1.65-1.56 3.06-2.96 4.1c-1.43 1.05-3.13 1.61-4.91 1.61c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-2.99 0-5.42-2.43-5.42-5.42c0-1 0.27-1.98 0.79-2.83l0.55-0.9l-0.92-0.5c-2.9-1.58-4.7-4.6-4.7-7.9c0-3 1.49-5.78 3.97-7.46l0.6-0.41l-0.2-0.7c-0.07-0.23-0.1-0.47-0.1-0.71c0-1.28 0.95-2.37 2.21-2.54l1.06-0.15l-0.22-1.05c-0.13-0.64-0.2-1.31-0.2-1.97c0-5.35 4.35-9.7 9.7-9.7c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c2.16 0 4.11 1.1 5.24 2.94l0.56 0.92l0.87-0.63c1.65-1.18 3.6-1.81 5.64-1.81c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.47 0 2.9 0.53 4.01 1.5c1.1 0.95 1.83 2.27 2.05 3.7l0.1 0.66l0.65 0.16c2.21 0.55 4.22 1.85 5.64 3.65c1.47 1.85 2.24 4.09 2.24 6.46c0 0.81-0.09 1.62-0.28 2.41l-0.16 0.67l0.57 0.39c1.7 1.14 2.72 3.05 2.72 5.09c0 2.01-0.99 3.89-2.64 5.04l-0.55 0.38l0.14 0.65c0.13 0.58 0.19 1.17 0.19 1.77c0 4.42-3.45 8.05-7.86 8.26l-1.2 0.06l0.28 1.17c0.15 0.63 0.22 1.27 0.22 1.92c0 4.56-3.71 8.27-8.27 8.27c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7l0.03-0.01z" />
+				<path id="Layer" fill-rule="evenodd" class="s8" d="m342.23 761c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-3.45 0-6.42-2.04-7.78-4.97c-1.21 3.72-4.7 6.4-8.82 6.4c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.27 0.03-0.54 0.05-0.82 0.05c-3.55 0-6.42-2.87-6.42-6.42c0-1.23 0.34-2.37 0.94-3.35c-3.11-1.69-5.22-4.99-5.22-8.78c0-3.45 1.75-6.5 4.42-8.29c-0.09-0.31-0.14-0.64-0.14-0.98c0-1.8 1.34-3.29 3.08-3.53c-0.14-0.7-0.22-1.43-0.22-2.17c0-5.91 4.79-10.7 10.7-10.7c0.64 0 1.26 0.05 1.86 0.16c1.77-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c2.58 0 4.84 1.37 6.09 3.42c1.75-1.26 3.9-1.99 6.22-1.99c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.57 0 6.53 2.62 7.05 6.05c4.96 1.24 8.64 5.72 8.64 11.07c0 0.91-0.11 1.79-0.31 2.64c1.9 1.28 3.16 3.46 3.16 5.92c0 2.43-1.21 4.57-3.07 5.86c0.14 0.64 0.21 1.3 0.21 1.99c0 4.97-3.9 9.02-8.81 9.26c0.16 0.69 0.25 1.41 0.25 2.15c0 5.12-4.15 9.27-9.27 9.27c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9l0.01-0.02zm0-2c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c4.01 0 7.27-3.26 7.27-7.27c0-0.57-0.07-1.14-0.2-1.69l-0.56-2.34l2.4-0.12c3.87-0.19 6.91-3.38 6.91-7.26c0-0.53-0.06-1.05-0.17-1.56l-0.28-1.31l1.1-0.76c1.38-0.96 2.21-2.54 2.21-4.22c0-1.71-0.85-3.31-2.27-4.26l-1.15-0.77l0.32-1.35c0.17-0.71 0.25-1.44 0.25-2.18c0-2.14-0.7-4.16-2.03-5.84c-1.29-1.63-3.1-2.8-5.1-3.3l-1.29-0.32l-0.2-1.32c-0.18-1.2-0.79-2.3-1.72-3.1c-0.93-0.81-2.12-1.25-3.36-1.25c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-1.83 0-3.58 0.56-5.06 1.62l-1.75 1.25l-1.12-1.84c-0.94-1.54-2.58-2.46-4.38-2.46c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.44 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-4.8 0-8.7 3.9-8.7 8.7c0 0.6 0.06 1.19 0.18 1.77l0.43 2.09l-2.12 0.29c-0.77 0.11-1.35 0.77-1.35 1.55c0 0.15 0.02 0.29 0.06 0.43l0.4 1.4l-1.2 0.81c-2.21 1.49-3.53 3.97-3.53 6.63c0 2.93 1.6 5.62 4.18 7.02l1.85 1.01l-1.1 1.8c-0.42 0.69-0.65 1.49-0.65 2.3c0 2.44 1.98 4.42 4.42 4.42c0.19 0 0.38-0.01 0.57-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.57 0 3.06-0.49 4.31-1.42c1.22-0.9 2.14-2.18 2.61-3.6l1.58-4.85l2.14 4.63c1.07 2.32 3.41 3.81 5.96 3.81c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29l0.02 0.01z" />
+			</g>
+			<path id="Linha_6-2" class="s5" d="m309.91 731.5v45" />
+			<path id="Linha_7-2" class="s5" d="m309.91 751.5l11-8" />
+			<path id="Linha_8-2" class="s5" d="m309.91 745.5l-10-8" />
+			<path id="Linha_6-3" class="s5" d="m342.91 731.5v45" />
+			<path id="Linha_7-3" class="s5" d="m342.91 751.5l11-8" />
+			<path id="Linha_8-3" class="s5" d="m342.91 745.5l-10-8" />
+		</g>
+		<g id="Grupo_90">
+			<g id="Retângulo_369">
+				<path id="Layer" class="s3" d="m227.41 774c0-0.55 0.45-1 1-1h10c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-10c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m227.91 774c0-0.28 0.22-0.5 0.5-0.5h10c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-10c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11" class="s10" d="m233.41 773v-39.41c0.03-0.65 0.18-1.28 0.46-1.86c0.28-0.58 0.67-1.11 1.15-1.53c0.48-0.43 1.05-0.76 1.66-0.96c0.61-0.21 1.26-0.28 1.9-0.23c5.08-0.05 4.46 4.59 4.46 4.59" />
+			<g id="Elipse_43">
+				<path id="Layer" class="s3" d="m243.41 742c-1.66 0-3-0.89-3-2c0-1.11 1.34-2 3-2c1.66 0 3 0.89 3 2c0 1.11-1.34 2-3 2z" />
+				<path id="Layer" class="s9" d="m243.41 741.5c-1.38 0-2.5-0.67-2.5-1.5c0-0.83 1.12-1.5 2.5-1.5c1.38 0 2.5 0.67 2.5 1.5c0 0.83-1.12 1.5-2.5 1.5z" />
+			</g>
+			<path id="Caminho_12" class="s11" d="m241.76 733.52h3.07l4.19 6.03h-11.38l4.13-6.03h-0.01z" />
+			<path id="Linha_9" class="s12" d="m243.91 743.5v4" />
+			<path id="Linha_10" class="s12" d="m238.91 742.5l-3 3" />
+			<path id="Linha_11" class="s12" d="m247.91 742.5l3 3" />
+		</g>
+		<g id="Grupo_91">
+			<g id="Retângulo_369-2">
+				<path id="Layer" class="s3" d="m365.41 774c0-0.55 0.45-1 1-1h10c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-10c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m365.91 774c0-0.28 0.22-0.5 0.5-0.5h10c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-10c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-2" class="s10" d="m371.41 773v-39.41c0.03-0.65 0.18-1.28 0.46-1.86c0.28-0.58 0.67-1.11 1.15-1.53c0.48-0.43 1.05-0.76 1.66-0.96c0.61-0.21 1.26-0.28 1.9-0.23c5.08-0.05 4.46 4.59 4.46 4.59" />
+			<g id="Elipse_43-2">
+				<path id="Layer" class="s3" d="m381.41 742c-1.66 0-3-0.89-3-2c0-1.11 1.34-2 3-2c1.66 0 3 0.89 3 2c0 1.11-1.34 2-3 2z" />
+				<path id="Layer" class="s9" d="m381.41 741.5c-1.38 0-2.5-0.67-2.5-1.5c0-0.83 1.12-1.5 2.5-1.5c1.38 0 2.5 0.67 2.5 1.5c0 0.83-1.12 1.5-2.5 1.5z" />
+			</g>
+			<path id="Caminho_12-2" class="s11" d="m379.76 733.52h3.07l4.19 6.03h-11.38l4.13-6.03h-0.01z" />
+			<path id="Linha_9-2" class="s12" d="m381.91 743.5v4" />
+			<path id="Linha_10-2" class="s12" d="m376.91 742.5l-3 3" />
+			<path id="Linha_11-2" class="s12" d="m385.91 742.5l3 3" />
+		</g>
+		<g id="Grupo_96">
+			<g id="União_40">
+				<path id="Layer" class="s7" d="m524.23 760c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-0.02 0-0.04 0-0.06 0l-0.94-0.01l-0.07 0.93c-0.16 2.07-1.09 4-2.61 5.42c-1.54 1.43-3.54 2.22-5.64 2.22c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-2.94 0-5.63-1.72-6.87-4.39l-1.07-2.31l-0.79 2.42c-0.54 1.65-1.56 3.06-2.96 4.1c-1.43 1.05-3.13 1.61-4.91 1.61c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-2.99 0-5.42-2.43-5.42-5.42c0-1 0.27-1.98 0.79-2.83l0.55-0.9l-0.92-0.5c-2.9-1.58-4.7-4.6-4.7-7.9c0-3 1.49-5.78 3.97-7.46l0.6-0.41l-0.2-0.7c-0.07-0.23-0.1-0.47-0.1-0.71c0-1.28 0.95-2.37 2.21-2.54l1.06-0.15l-0.22-1.05c-0.13-0.64-0.2-1.31-0.2-1.97c0-5.35 4.35-9.7 9.7-9.7c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c2.16 0 4.11 1.1 5.24 2.94l0.56 0.92l0.87-0.63c1.65-1.18 3.6-1.81 5.64-1.81c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.27 0 2.49 0.39 3.53 1.12c1.01 0.72 1.78 1.71 2.21 2.86l0.55 1.47l1.1-1.12c1.84-1.87 4.3-2.9 6.92-2.9c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.47 0 2.9 0.53 4.01 1.5c1.1 0.95 1.83 2.27 2.05 3.7l0.1 0.66l0.65 0.16c2.21 0.55 4.22 1.85 5.64 3.65c1.47 1.85 2.24 4.09 2.24 6.46c0 0.81-0.09 1.62-0.28 2.41l-0.16 0.67l0.57 0.39c1.7 1.14 2.72 3.05 2.72 5.09c0 2.01-0.99 3.89-2.64 5.04l-0.55 0.38l0.14 0.65c0.13 0.58 0.19 1.17 0.19 1.77c0 4.42-3.45 8.05-7.86 8.26l-1.2 0.06l0.28 1.17c0.15 0.63 0.22 1.27 0.22 1.92c0 4.56-3.71 8.27-8.27 8.27c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7l0.03-0.03z" />
+				<path id="Layer" fill-rule="evenodd" class="s8" d="m524.23 761c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.29 0.04-0.6 0.06-0.9 0.05c-0.36 4.79-4.37 8.56-9.25 8.56c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-3.45 0-6.42-2.04-7.78-4.97c-1.21 3.72-4.7 6.4-8.82 6.4c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.27 0.03-0.54 0.05-0.82 0.05c-3.55 0-6.42-2.87-6.42-6.42c0-1.23 0.34-2.37 0.94-3.35c-3.11-1.69-5.22-4.99-5.22-8.78c0-3.45 1.75-6.5 4.42-8.29c-0.09-0.31-0.14-0.64-0.14-0.98c0-1.8 1.34-3.29 3.08-3.53c-0.14-0.7-0.22-1.43-0.22-2.17c0-5.91 4.79-10.7 10.7-10.7c0.64 0 1.26 0.05 1.86 0.16c1.77-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c2.58 0 4.84 1.37 6.09 3.42c1.75-1.26 3.9-1.99 6.22-1.99c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.06 0 5.67 1.92 6.68 4.63c1.94-1.98 4.64-3.2 7.63-3.2c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.57 0 6.53 2.62 7.05 6.05c4.96 1.24 8.64 5.72 8.64 11.07c0 0.91-0.11 1.79-0.31 2.64c1.9 1.28 3.16 3.46 3.16 5.92c0 2.43-1.21 4.57-3.07 5.86c0.14 0.64 0.21 1.3 0.21 1.99c0 4.97-3.9 9.02-8.81 9.26c0.16 0.69 0.25 1.41 0.25 2.15c0 5.12-4.15 9.27-9.27 9.27c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9l0.02-0.03zm0-2c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c4.01 0 7.27-3.26 7.27-7.27c0-0.57-0.07-1.14-0.2-1.69l-0.56-2.34l2.4-0.12c3.87-0.19 6.91-3.38 6.91-7.26c0-0.53-0.06-1.05-0.17-1.56l-0.28-1.31l1.1-0.76c1.38-0.96 2.21-2.54 2.21-4.22c0-1.71-0.85-3.31-2.27-4.26l-1.15-0.77l0.32-1.35c0.17-0.71 0.25-1.44 0.25-2.18c0-2.14-0.7-4.16-2.03-5.84c-1.29-1.63-3.1-2.8-5.1-3.3l-1.29-0.32l-0.2-1.32c-0.18-1.2-0.79-2.3-1.72-3.1c-0.93-0.81-2.12-1.25-3.36-1.25c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-2.35 0-4.56 0.92-6.21 2.6l-2.2 2.24l-1.1-2.94c-0.75-1.99-2.68-3.33-4.81-3.33c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-1.83 0-3.58 0.56-5.06 1.62l-1.75 1.25l-1.12-1.84c-0.94-1.54-2.58-2.46-4.39-2.46c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.44 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-4.8 0-8.7 3.9-8.7 8.7c0 0.6 0.06 1.19 0.18 1.77l0.43 2.09l-2.12 0.29c-0.77 0.11-1.35 0.77-1.35 1.55c0 0.15 0.02 0.29 0.06 0.43l0.4 1.4l-1.2 0.81c-2.21 1.49-3.53 3.97-3.53 6.63c0 2.93 1.6 5.62 4.18 7.02l1.85 1.01l-1.1 1.8c-0.42 0.69-0.65 1.49-0.65 2.3c0 2.44 1.98 4.42 4.42 4.42c0.19 0 0.38-0.01 0.57-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.57 0 3.06-0.49 4.31-1.42c1.23-0.91 2.13-2.16 2.61-3.6l1.58-4.85l2.14 4.63c1.07 2.32 3.41 3.81 5.96 3.81c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.85 0 3.61-0.69 4.96-1.95c1.34-1.25 2.16-2.94 2.3-4.76l0.14-1.87l1.87 0.02c0.21 0 0.42-0.01 0.62-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29l0.05 0.01z" />
+			</g>
+			<path id="Linha_6-4" class="s5" d="m456.91 731.5v45" />
+			<path id="Linha_7-4" class="s5" d="m456.91 751.5l11-8" />
+			<path id="Linha_8-4" class="s5" d="m456.91 745.5l-10-8" />
+			<path id="Linha_6-5" class="s5" d="m489.91 731.5v45" />
+			<path id="Linha_7-5" class="s5" d="m489.91 751.5l11-8" />
+			<path id="Linha_8-5" class="s5" d="m489.91 745.5l-10-8" />
+			<path id="Linha_6-6" class="s5" d="m524.91 731.5v45" />
+			<path id="Linha_7-6" class="s5" d="m524.91 751.5l11-8" />
+			<path id="Linha_8-6" class="s5" d="m524.91 745.5l-10-8" />
+		</g>
+		<g id="Grupo_97">
+			<g id="Retângulo_369-3">
+				<path id="Layer" class="s3" d="m547.41 774c0-0.55 0.45-1 1-1h10c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-10c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m547.91 774c0-0.28 0.22-0.5 0.5-0.5h10c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-10c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-3" class="s10" d="m553.41 773v-39.41c0.03-0.65 0.18-1.28 0.46-1.86c0.28-0.58 0.67-1.11 1.15-1.53c0.48-0.43 1.05-0.76 1.66-0.96c0.61-0.21 1.26-0.28 1.9-0.23c5.08-0.05 4.46 4.59 4.46 4.59" />
+			<g id="Elipse_43-3">
+				<path id="Layer" class="s3" d="m563.41 742c-1.66 0-3-0.89-3-2c0-1.11 1.34-2 3-2c1.66 0 3 0.89 3 2c0 1.11-1.34 2-3 2z" />
+				<path id="Layer" class="s9" d="m563.41 741.5c-1.38 0-2.5-0.67-2.5-1.5c0-0.83 1.12-1.5 2.5-1.5c1.38 0 2.5 0.67 2.5 1.5c0 0.83-1.12 1.5-2.5 1.5z" />
+			</g>
+			<path id="Caminho_12-3" class="s11" d="m561.77 733.52h3.07l4.18 6.03h-11.38l4.13-6.03z" />
+			<path id="Linha_9-3" class="s12" d="m563.91 743.5v4" />
+			<path id="Linha_10-3" class="s12" d="m558.91 742.5l-3 3" />
+			<path id="Linha_11-3" class="s12" d="m567.91 742.5l3 3" />
+		</g>
+		<g id="Grupo_108">
+			<g id="Grupo_77-2">
+				<g id="Grupo_3-2">
+					<g id="Caminho_345">
+						<path id="Layer" class="s1" d="m784.07 473.89h-100.2v-60.89h100.2v60.89z" />
+						<path id="Layer" fill-rule="evenodd" class="s13" d="m682.87 412h102.2v62.89h-102.2v-62.89zm2 2v58.89h98.2v-58.89h-98.2z" />
+					</g>
+					<g id="Retângulo_147-2">
+						<path id="Layer" class="s1" d="m660.41 463.66h147.12v313.34h-147.12v-313.34z" />
+						<path id="Layer" class="s2" d="m661.41 464.66h145.12v311.34h-145.12v-311.34z" />
+					</g>
+					<g id="Retângulo_149-2">
+						<path id="Layer" class="s6" d="m694.41 420h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m695.41 421h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_150-2">
+						<path id="Layer" class="s6" d="m694.41 431h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m695.41 432h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_151-2">
+						<path id="Layer" class="s6" d="m694.41 442h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m695.41 443h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_152-2">
+						<path id="Layer" class="s6" d="m694.41 453h80v6h-80v-6z" />
+						<path id="Layer" class="s2" d="m695.41 454h78v4h-78v-4z" />
+					</g>
+					<g id="Retângulo_278-2">
+						<path id="Layer" class="s1" d="m716.41 743h36v34h-36v-34z" />
+						<path id="Layer" class="s2" d="m717.41 744h34v32h-34v-32z" />
+					</g>
+				</g>
+				<g id="Grupo_76-2">
+					<g id="Grupo_40-2">
+						<g id="Grupo_14-55">
+							<g id="Retângulo_5-55">
+								<path id="Layer" class="s6" d="m672.41 473h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 474h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-55">
+								<path id="Layer" class="s6" d="m672.41 484h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 485h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_41-2">
+						<g id="Grupo_14-56">
+							<g id="Retângulo_5-56">
+								<path id="Layer" class="s6" d="m760.41 473h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 474h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-56">
+								<path id="Layer" class="s6" d="m760.41 484h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 485h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_42-2">
+						<g id="Grupo_14-57">
+							<g id="Retângulo_5-57">
+								<path id="Layer" class="s6" d="m716.41 473h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 474h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-57">
+								<path id="Layer" class="s6" d="m716.41 484h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 485h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_43-2">
+						<g id="Grupo_14-58">
+							<g id="Retângulo_5-58">
+								<path id="Layer" class="s6" d="m672.41 494h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 495h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-58">
+								<path id="Layer" class="s6" d="m672.41 505h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 506h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_44-2">
+						<g id="Grupo_14-59">
+							<g id="Retângulo_5-59">
+								<path id="Layer" class="s6" d="m760.41 494h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 495h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-59">
+								<path id="Layer" class="s6" d="m760.41 505h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 506h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_45-2">
+						<g id="Grupo_14-60">
+							<g id="Retângulo_5-60">
+								<path id="Layer" class="s6" d="m716.41 494h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 495h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-60">
+								<path id="Layer" class="s6" d="m716.41 505h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 506h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_46-2">
+						<g id="Grupo_14-61">
+							<g id="Retângulo_5-61">
+								<path id="Layer" class="s6" d="m672.41 515h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 516h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-61">
+								<path id="Layer" class="s6" d="m672.41 526h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 527h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_47-2">
+						<g id="Grupo_14-62">
+							<g id="Retângulo_5-62">
+								<path id="Layer" class="s6" d="m760.41 515h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 516h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-62">
+								<path id="Layer" class="s6" d="m760.41 526h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 527h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_48-2">
+						<g id="Grupo_14-63">
+							<g id="Retângulo_5-63">
+								<path id="Layer" class="s6" d="m716.41 515h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 516h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-63">
+								<path id="Layer" class="s6" d="m716.41 526h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 527h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_49-2">
+						<g id="Grupo_14-64">
+							<g id="Retângulo_5-64">
+								<path id="Layer" class="s6" d="m672.41 536h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 537h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-64">
+								<path id="Layer" class="s6" d="m672.41 547h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 548h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_50-2">
+						<g id="Grupo_14-65">
+							<g id="Retângulo_5-65">
+								<path id="Layer" class="s6" d="m760.41 536h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 537h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-65">
+								<path id="Layer" class="s6" d="m760.41 547h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 548h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_51-2">
+						<g id="Grupo_14-66">
+							<g id="Retângulo_5-66">
+								<path id="Layer" class="s6" d="m716.41 536h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 537h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-66">
+								<path id="Layer" class="s6" d="m716.41 547h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 548h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_52-2">
+						<g id="Grupo_14-67">
+							<g id="Retângulo_5-67">
+								<path id="Layer" class="s6" d="m672.41 557h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 558h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-67">
+								<path id="Layer" class="s6" d="m672.41 568h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 569h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_53-2">
+						<g id="Grupo_14-68">
+							<g id="Retângulo_5-68">
+								<path id="Layer" class="s6" d="m760.41 557h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 558h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-68">
+								<path id="Layer" class="s6" d="m760.41 568h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 569h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_54-2">
+						<g id="Grupo_14-69">
+							<g id="Retângulo_5-69">
+								<path id="Layer" class="s6" d="m716.41 557h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 558h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-69">
+								<path id="Layer" class="s6" d="m716.41 568h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 569h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_55-2">
+						<g id="Grupo_14-70">
+							<g id="Retângulo_5-70">
+								<path id="Layer" class="s6" d="m672.41 578h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 579h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-70">
+								<path id="Layer" class="s6" d="m672.41 589h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 590h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_56-2">
+						<g id="Grupo_14-71">
+							<g id="Retângulo_5-71">
+								<path id="Layer" class="s6" d="m760.41 578h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 579h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-71">
+								<path id="Layer" class="s6" d="m760.41 589h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 590h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_57-2">
+						<g id="Grupo_14-72">
+							<g id="Retângulo_5-72">
+								<path id="Layer" class="s6" d="m716.41 578h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 579h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-72">
+								<path id="Layer" class="s6" d="m716.41 589h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 590h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_58-2">
+						<g id="Grupo_14-73">
+							<g id="Retângulo_5-73">
+								<path id="Layer" class="s6" d="m672.41 599h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 600h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-73">
+								<path id="Layer" class="s6" d="m672.41 610h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 611h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_59-2">
+						<g id="Grupo_14-74">
+							<g id="Retângulo_5-74">
+								<path id="Layer" class="s6" d="m760.41 599h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 600h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-74">
+								<path id="Layer" class="s6" d="m760.41 610h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 611h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_60-2">
+						<g id="Grupo_14-75">
+							<g id="Retângulo_5-75">
+								<path id="Layer" class="s6" d="m716.41 599h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 600h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-75">
+								<path id="Layer" class="s6" d="m716.41 610h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 611h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_61-2">
+						<g id="Grupo_14-76">
+							<g id="Retângulo_5-76">
+								<path id="Layer" class="s6" d="m672.41 620h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 621h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-76">
+								<path id="Layer" class="s6" d="m672.41 631h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 632h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_62-2">
+						<g id="Grupo_14-77">
+							<g id="Retângulo_5-77">
+								<path id="Layer" class="s6" d="m760.41 620h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 621h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-77">
+								<path id="Layer" class="s6" d="m760.41 631h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 632h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_63-2">
+						<g id="Grupo_14-78">
+							<g id="Retângulo_5-78">
+								<path id="Layer" class="s6" d="m716.41 620h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 621h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-78">
+								<path id="Layer" class="s6" d="m716.41 631h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 632h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_64-2">
+						<g id="Grupo_14-79">
+							<g id="Retângulo_5-79">
+								<path id="Layer" class="s6" d="m672.41 641h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 642h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-79">
+								<path id="Layer" class="s6" d="m672.41 652h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 653h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_65-2">
+						<g id="Grupo_14-80">
+							<g id="Retângulo_5-80">
+								<path id="Layer" class="s6" d="m760.41 641h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 642h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-80">
+								<path id="Layer" class="s6" d="m760.41 652h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 653h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_66-2">
+						<g id="Grupo_14-81">
+							<g id="Retângulo_5-81">
+								<path id="Layer" class="s6" d="m716.41 641h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 642h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-81">
+								<path id="Layer" class="s6" d="m716.41 652h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 653h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_67-2">
+						<g id="Grupo_14-82">
+							<g id="Retângulo_5-82">
+								<path id="Layer" class="s6" d="m672.41 662h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 663h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-82">
+								<path id="Layer" class="s6" d="m672.41 673h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 674h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_68-2">
+						<g id="Grupo_14-83">
+							<g id="Retângulo_5-83">
+								<path id="Layer" class="s6" d="m760.41 662h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 663h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-83">
+								<path id="Layer" class="s6" d="m760.41 673h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 674h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_69-2">
+						<g id="Grupo_14-84">
+							<g id="Retângulo_5-84">
+								<path id="Layer" class="s6" d="m716.41 662h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 663h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-84">
+								<path id="Layer" class="s6" d="m716.41 673h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 674h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_70-2">
+						<g id="Grupo_14-85">
+							<g id="Retângulo_5-85">
+								<path id="Layer" class="s6" d="m672.41 683h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 684h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-85">
+								<path id="Layer" class="s6" d="m672.41 694h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 695h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_71-2">
+						<g id="Grupo_14-86">
+							<g id="Retângulo_5-86">
+								<path id="Layer" class="s6" d="m760.41 683h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 684h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-86">
+								<path id="Layer" class="s6" d="m760.41 694h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 695h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_72-2">
+						<g id="Grupo_14-87">
+							<g id="Retângulo_5-87">
+								<path id="Layer" class="s6" d="m716.41 683h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 684h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-87">
+								<path id="Layer" class="s6" d="m716.41 694h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 695h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_73-2">
+						<g id="Grupo_14-88">
+							<g id="Retângulo_5-88">
+								<path id="Layer" class="s6" d="m672.41 704h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m673.41 705h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-88">
+								<path id="Layer" class="s6" d="m672.41 715h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m673.41 716h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+					<g id="Grupo_74-2">
+						<g id="Grupo_14-89">
+							<g id="Retângulo_5-89">
+								<path id="Layer" class="s6" d="m760.41 704h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m761.41 705h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-89">
+								<path id="Layer" class="s6" d="m760.41 715h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m761.41 716h33v3h-33v-3z" />
+							</g>
+						</g>
+						<path id="Subtração_12-2" class="s6" d="m772.75 715h-5.01l7.54-10h5.01l-7.54 10z" />
+						<path id="Subtração_14-2" class="s6" d="m780.75 715h-5.01l7.54-10h5.01l-7.54 10z" />
+					</g>
+					<g id="Grupo_75-2">
+						<g id="Grupo_14-90">
+							<g id="Retângulo_5-90">
+								<path id="Layer" class="s6" d="m716.41 704h35v14h-35v-14z" />
+								<path id="Layer" class="s2" d="m717.41 705h33v12h-33v-12z" />
+							</g>
+							<g id="Retângulo_8-90">
+								<path id="Layer" class="s6" d="m716.41 715h35v5h-35v-5z" />
+								<path id="Layer" class="s2" d="m717.41 716h33v3h-33v-3z" />
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Retângulo_293-2">
+				<path id="Layer" class="s1" d="m731.41 371h5v42h-5v-42z" />
+				<path id="Layer" class="s2" d="m732.41 372h3v40h-3v-40z" />
+			</g>
+		</g>
+		<g id="Grupo_98">
+			<g id="Retângulo_369-4">
+				<path id="Layer" class="s3" d="m794.41 774c0-0.55 0.45-1 1-1h10c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-10c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m794.91 774c0-0.28 0.22-0.5 0.5-0.5h10c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-10c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-4" class="s10" d="m800.41 773v-39.41c0.03-0.65 0.18-1.28 0.46-1.86c0.28-0.58 0.67-1.11 1.15-1.53c0.48-0.43 1.05-0.76 1.66-0.96c0.61-0.21 1.26-0.28 1.9-0.23c5.08-0.05 4.46 4.59 4.46 4.59" />
+			<g id="Elipse_43-4">
+				<path id="Layer" class="s3" d="m810.41 742c-1.66 0-3-0.89-3-2c0-1.11 1.34-2 3-2c1.66 0 3 0.89 3 2c0 1.11-1.34 2-3 2z" />
+				<path id="Layer" class="s9" d="m810.41 741.5c-1.38 0-2.5-0.67-2.5-1.5c0-0.83 1.12-1.5 2.5-1.5c1.38 0 2.5 0.67 2.5 1.5c0 0.83-1.12 1.5-2.5 1.5z" />
+			</g>
+			<path id="Caminho_12-4" class="s11" d="m808.77 733.52h3.07l4.18 6.03h-11.38l4.13-6.03z" />
+			<path id="Linha_9-4" class="s12" d="m810.91 743.5v4" />
+			<path id="Linha_10-4" class="s12" d="m805.91 742.5l-3 3" />
+			<path id="Linha_11-4" class="s12" d="m814.91 742.5l3 3" />
+		</g>
+		<g id="Grupo_99">
+			<g id="Retângulo_369-5">
+				<path id="Layer" class="s3" d="m783.15 774c0-0.55 0.45-1 1-1h8.26c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-8.26c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m783.65 774c0-0.28 0.22-0.5 0.5-0.5h8.26c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-8.26c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-5" class="s10" d="m780.04 733.59c0 0-0.53-4.64 3.82-4.59c4.35 0.05 4.42 4.59 4.42 4.59v39.41" />
+			<g id="Elipse_43-5">
+				<path id="Layer" class="s3" d="m779.73 742c-1.42 0-2.57-0.89-2.57-2c0-1.11 1.15-2 2.57-2c1.42 0 2.56 0.89 2.56 2c0 1.11-1.15 2-2.56 2z" />
+				<path id="Layer" class="s9" d="m779.73 741.5c-1.14 0-2.07-0.67-2.07-1.5c0-0.83 0.92-1.5 2.07-1.5c1.14 0 2.06 0.67 2.06 1.5c0 0.83-0.92 1.5-2.06 1.5z" />
+			</g>
+			<path id="Caminho_12-5" class="s11" d="m784.66 739.54h-9.73l3.58-6.03h2.63l3.53 6.03h-0.01z" />
+			<path id="Linha_9-5" class="s12" d="m779.3 743.5v4" />
+			<path id="Linha_10-5" class="s12" d="m783.58 742.5l2.57 3" />
+			<path id="Linha_11-5" class="s12" d="m775.88 742.5l-2.57 3" />
+		</g>
+		<g id="Grupo_101">
+			<g id="União_39-2">
+				<path id="Layer" class="s7" d="m691.23 760c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-2.94 0-5.63-1.72-6.87-4.39l-1.07-2.31l-0.79 2.42c-0.54 1.65-1.56 3.06-2.96 4.1c-1.43 1.05-3.13 1.61-4.91 1.61c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-2.99 0-5.42-2.43-5.42-5.42c0-1 0.27-1.98 0.79-2.83l0.55-0.9l-0.92-0.5c-2.9-1.58-4.7-4.6-4.7-7.9c0-3 1.49-5.78 3.97-7.46l0.6-0.41l-0.2-0.7c-0.07-0.23-0.1-0.47-0.1-0.71c0-1.28 0.95-2.37 2.21-2.54l1.06-0.15l-0.22-1.05c-0.13-0.64-0.2-1.31-0.2-1.97c0-5.35 4.35-9.7 9.7-9.7c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c2.16 0 4.11 1.1 5.24 2.94l0.56 0.92l0.87-0.63c1.65-1.18 3.6-1.81 5.64-1.81c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.47 0 2.9 0.53 4.01 1.5c1.1 0.95 1.83 2.27 2.05 3.7l0.1 0.66l0.65 0.16c2.21 0.55 4.22 1.85 5.64 3.65c1.47 1.85 2.24 4.09 2.24 6.46c0 0.81-0.09 1.62-0.28 2.41l-0.16 0.67l0.57 0.39c1.7 1.14 2.72 3.05 2.72 5.09c0 2.01-0.99 3.89-2.64 5.04l-0.55 0.38l0.14 0.65c0.13 0.58 0.19 1.17 0.19 1.77c0 4.42-3.45 8.05-7.86 8.26l-1.2 0.06l0.28 1.17c0.15 0.63 0.22 1.27 0.22 1.92c0 4.56-3.71 8.27-8.27 8.27c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7l0.03-0.01z" />
+				<path id="Layer" fill-rule="evenodd" class="s8" d="m691.23 761c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-3.45 0-6.42-2.04-7.78-4.97c-1.21 3.72-4.7 6.4-8.82 6.4c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.27 0.03-0.54 0.05-0.82 0.05c-3.55 0-6.42-2.87-6.42-6.42c0-1.23 0.34-2.37 0.94-3.35c-3.11-1.69-5.22-4.99-5.22-8.78c0-3.45 1.75-6.5 4.42-8.29c-0.09-0.31-0.14-0.64-0.14-0.98c0-1.8 1.34-3.29 3.08-3.53c-0.14-0.7-0.22-1.43-0.22-2.17c0-5.91 4.79-10.7 10.7-10.7c0.64 0 1.26 0.05 1.86 0.16c1.77-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c2.58 0 4.84 1.37 6.09 3.42c1.75-1.26 3.9-1.99 6.22-1.99c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.57 0 6.53 2.62 7.05 6.05c4.96 1.24 8.64 5.72 8.64 11.07c0 0.91-0.11 1.79-0.31 2.64c1.9 1.28 3.16 3.46 3.16 5.92c0 2.43-1.21 4.57-3.07 5.86c0.14 0.64 0.21 1.3 0.21 1.99c0 4.97-3.9 9.02-8.81 9.26c0.16 0.69 0.25 1.41 0.25 2.15c0 5.12-4.15 9.27-9.27 9.27c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9l0.01-0.02zm0-2c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c4.01 0 7.27-3.26 7.27-7.27c0-0.57-0.07-1.14-0.2-1.69l-0.56-2.34l2.4-0.12c3.87-0.19 6.91-3.38 6.91-7.26c0-0.53-0.06-1.05-0.17-1.56l-0.28-1.31l1.1-0.76c1.38-0.96 2.21-2.54 2.21-4.22c0-1.71-0.85-3.31-2.27-4.26l-1.15-0.77l0.32-1.35c0.17-0.71 0.25-1.44 0.25-2.18c0-2.14-0.7-4.16-2.03-5.84c-1.29-1.63-3.1-2.8-5.1-3.3l-1.29-0.32l-0.2-1.32c-0.18-1.2-0.79-2.3-1.72-3.1c-0.93-0.81-2.12-1.25-3.36-1.25c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-1.83 0-3.58 0.56-5.06 1.62l-1.75 1.25l-1.12-1.84c-0.94-1.54-2.58-2.46-4.38-2.46c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.44 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-4.8 0-8.7 3.9-8.7 8.7c0 0.6 0.06 1.19 0.18 1.77l0.43 2.09l-2.12 0.29c-0.77 0.11-1.35 0.77-1.35 1.55c0 0.15 0.02 0.29 0.06 0.43l0.4 1.4l-1.2 0.81c-2.21 1.49-3.53 3.97-3.53 6.63c0 2.93 1.6 5.62 4.18 7.02l1.85 1.01l-1.1 1.8c-0.42 0.69-0.65 1.49-0.65 2.3c0 2.44 1.98 4.42 4.42 4.42c0.19 0 0.38-0.01 0.57-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.57 0 3.06-0.49 4.31-1.42c1.22-0.9 2.14-2.18 2.61-3.6l1.58-4.85l2.14 4.63c1.07 2.32 3.41 3.81 5.96 3.81c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29l0.02 0.01z" />
+			</g>
+			<path id="Linha_6-7" class="s5" d="m658.91 731.5v45" />
+			<path id="Linha_7-7" class="s5" d="m658.91 751.5l11-8" />
+			<path id="Linha_8-7" class="s5" d="m658.91 745.5l-10-8" />
+			<path id="Linha_6-8" class="s5" d="m691.91 731.5v45" />
+			<path id="Linha_7-8" class="s5" d="m691.91 751.5l11-8" />
+			<path id="Linha_8-8" class="s5" d="m691.91 745.5l-10-8" />
+		</g>
+		<g id="Grupo_102" style="opacity: .2">
+			<g id="Subtração_1-2">
+			</g>
+		</g>
+		<g id="Grupo_103" style="opacity: .3">
+			<g id="Subtração_1-3">
+			</g>
+		</g>
+		<g id="Grupo_104" style="opacity: .2">
+		</g>
+		<g id="Grupo_105">
+		</g>
+		<g id="Grupo_106">
+		</g>
+		<g id="Retângulo_1">
+			<path id="Layer" class="s3" d="m176.41 777h1920v38h-1920v-38h0z" />
+			<path id="Layer" class="s2" d="m175.41 776h1922v40h-1922v-40h0z" />
+		</g>
+		<g id="Retângulo_370">
+			<path id="Layer" class="s3" d="m129.41 781h2014v45h-2014v-45h0z" />
+			<path id="Layer" class="s2" d="m130.41 782h2012v43h-2012v-43h0z" />
+		</g>
+		<g id="Grupo_109">
+			<g id="Retângulo_2-2">
+				<path id="Layer" class="s1" d="m817.41 486h96v291h-96v-291z" />
+				<path id="Layer" class="s2" d="m818.41 487h94v289h-94v-289z" />
+			</g>
+			<g id="Retângulo_3-2">
+				<path id="Layer" class="s1" d="m813.41 475h103v13h-103v-13z" />
+				<path id="Layer" class="s2" d="m814.41 476h101v11h-101v-11z" />
+			</g>
+			<g id="Grupo_13-2">
+				<g id="Retângulo_4-2">
+					<path id="Layer" class="s6" d="m825.41 494h80v15h-80v-15z" />
+					<path id="Layer" class="s2" d="m826.41 495h78v13h-78v-13z" />
+				</g>
+				<g id="Retângulo_7-2">
+					<path id="Layer" class="s6" d="m825.41 506h80v6h-80v-6z" />
+					<path id="Layer" class="s2" d="m826.41 507h78v4h-78v-4z" />
+				</g>
+			</g>
+			<g id="Retângulo_42-2">
+				<path id="Layer" class="s1" d="m847.41 742h36v34h-36v-34z" />
+				<path id="Layer" class="s2" d="m848.41 743h34v32h-34v-32z" />
+			</g>
+			<g id="Grupo_22-2">
+				<g id="Grupo_14-91">
+					<g id="Retângulo_5-91">
+						<path id="Layer" class="s6" d="m825.41 519h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 520h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-91">
+						<path id="Layer" class="s6" d="m825.41 530h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 531h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_23-2">
+				<g id="Grupo_14-92">
+					<g id="Retângulo_5-92">
+						<path id="Layer" class="s6" d="m870.41 519h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 520h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-92">
+						<path id="Layer" class="s6" d="m870.41 530h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 531h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_24-2">
+				<g id="Grupo_14-93">
+					<g id="Retângulo_5-93">
+						<path id="Layer" class="s6" d="m870.41 542h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 543h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-93">
+						<path id="Layer" class="s6" d="m870.41 553h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 554h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_25-2">
+				<g id="Grupo_14-94">
+					<g id="Retângulo_5-94">
+						<path id="Layer" class="s6" d="m825.41 542h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 543h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-94">
+						<path id="Layer" class="s6" d="m825.41 553h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 554h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_26-2">
+				<g id="Grupo_14-95">
+					<g id="Retângulo_5-95">
+						<path id="Layer" class="s6" d="m825.41 564h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 565h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-95">
+						<path id="Layer" class="s6" d="m825.41 575h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 576h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_27-2">
+				<g id="Grupo_14-96">
+					<g id="Retângulo_5-96">
+						<path id="Layer" class="s6" d="m870.41 564h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 565h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-96">
+						<path id="Layer" class="s6" d="m870.41 575h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 576h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_28-2">
+				<g id="Grupo_14-97">
+					<g id="Retângulo_5-97">
+						<path id="Layer" class="s6" d="m870.41 587h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 588h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-97">
+						<path id="Layer" class="s6" d="m870.41 598h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 599h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_29-2">
+				<g id="Grupo_14-98">
+					<g id="Retângulo_5-98">
+						<path id="Layer" class="s6" d="m825.41 587h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 588h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-98">
+						<path id="Layer" class="s6" d="m825.41 598h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 599h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_30-2">
+				<g id="Grupo_14-99">
+					<g id="Retângulo_5-99">
+						<path id="Layer" class="s6" d="m825.41 610h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 611h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-99">
+						<path id="Layer" class="s6" d="m825.41 621h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 622h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_31-2">
+				<g id="Grupo_14-100">
+					<g id="Retângulo_5-100">
+						<path id="Layer" class="s6" d="m870.41 610h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 611h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-100">
+						<path id="Layer" class="s6" d="m870.41 621h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 622h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_32-2">
+				<g id="Grupo_14-101">
+					<g id="Retângulo_5-101">
+						<path id="Layer" class="s6" d="m870.41 633h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 634h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-101">
+						<path id="Layer" class="s6" d="m870.41 644h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 645h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_33-2">
+				<g id="Grupo_14-102">
+					<g id="Retângulo_5-102">
+						<path id="Layer" class="s6" d="m825.41 633h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 634h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-102">
+						<path id="Layer" class="s6" d="m825.41 644h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 645h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_34-2">
+				<g id="Grupo_14-103">
+					<g id="Retângulo_5-103">
+						<path id="Layer" class="s6" d="m825.41 655h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 656h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-103">
+						<path id="Layer" class="s6" d="m825.41 666h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 667h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_35-2">
+				<g id="Grupo_14-104">
+					<g id="Retângulo_5-104">
+						<path id="Layer" class="s6" d="m870.41 655h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 656h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-104">
+						<path id="Layer" class="s6" d="m870.41 666h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 667h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_36-2">
+				<g id="Grupo_14-105">
+					<g id="Retângulo_5-105">
+						<path id="Layer" class="s6" d="m870.41 678h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 679h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-105">
+						<path id="Layer" class="s6" d="m870.41 689h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 690h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_37-2">
+				<g id="Grupo_14-106">
+					<g id="Retângulo_5-106">
+						<path id="Layer" class="s6" d="m825.41 678h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 679h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-106">
+						<path id="Layer" class="s6" d="m825.41 689h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 690h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_38-2">
+				<g id="Grupo_14-107">
+					<g id="Retângulo_5-107">
+						<path id="Layer" class="s6" d="m870.41 700h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m871.41 701h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-107">
+						<path id="Layer" class="s6" d="m870.41 711h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m871.41 712h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_39-2">
+				<g id="Grupo_14-108">
+					<g id="Retângulo_5-108">
+						<path id="Layer" class="s6" d="m825.41 700h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m826.41 701h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-108">
+						<path id="Layer" class="s6" d="m825.41 711h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m826.41 712h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="Grupo_107">
+			<g id="Retângulo_2-3">
+				<path id="Layer" class="s1" d="m937.41 554h96v223h-96v-223h0z" />
+				<path id="Layer" class="s2" d="m938.41 555h94v221h-94v-221h0z" />
+			</g>
+			<g id="Retângulo_3-3">
+				<path id="Layer" class="s1" d="m933.41 545h103v13h-103v-13h0z" />
+				<path id="Layer" class="s2" d="m934.41 546h101v11h-101v-11h0z" />
+			</g>
+			<g id="Grupo_13-3">
+				<g id="Retângulo_4-3">
+					<path id="Layer" class="s6" d="m945.41 564h80v15h-80v-15h0z" />
+					<path id="Layer" class="s2" d="m946.41 565h78v13h-78v-13h0z" />
+				</g>
+				<g id="Retângulo_7-3">
+					<path id="Layer" class="s6" d="m945.41 576h80v6h-80v-6h0z" />
+					<path id="Layer" class="s2" d="m946.41 577h78v4h-78v-4h0z" />
+				</g>
+			</g>
+			<g id="Retângulo_42-3">
+				<path id="Layer" class="s1" d="m967.41 742h36v34h-36v-34z" />
+				<path id="Layer" class="s2" d="m968.41 743h34v32h-34v-32z" />
+			</g>
+			<g id="Grupo_22-3">
+				<g id="Grupo_14-109">
+					<g id="Retângulo_5-109">
+						<path id="Layer" class="s6" d="m945.41 589h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m946.41 590h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-109">
+						<path id="Layer" class="s6" d="m945.41 600h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m946.41 601h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_23-3">
+				<g id="Grupo_14-110">
+					<g id="Retângulo_5-110">
+						<path id="Layer" class="s6" d="m990.41 589h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m991.41 590h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-110">
+						<path id="Layer" class="s6" d="m990.41 600h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m991.41 601h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_24-3">
+				<g id="Grupo_14-111">
+					<g id="Retângulo_5-111">
+						<path id="Layer" class="s6" d="m990.41 612h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m991.41 613h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-111">
+						<path id="Layer" class="s6" d="m990.41 623h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m991.41 624h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_25-3">
+				<g id="Grupo_14-112">
+					<g id="Retângulo_5-112">
+						<path id="Layer" class="s6" d="m945.41 612h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m946.41 613h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-112">
+						<path id="Layer" class="s6" d="m945.41 623h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m946.41 624h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_26-3">
+				<g id="Grupo_14-113">
+					<g id="Retângulo_5-113">
+						<path id="Layer" class="s6" d="m945.41 634h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m946.41 635h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-113">
+						<path id="Layer" class="s6" d="m945.41 645h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m946.41 646h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_27-3">
+				<g id="Grupo_14-114">
+					<g id="Retângulo_5-114">
+						<path id="Layer" class="s6" d="m990.41 634h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m991.41 635h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-114">
+						<path id="Layer" class="s6" d="m990.41 645h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m991.41 646h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_28-3">
+				<g id="Grupo_14-115">
+					<g id="Retângulo_5-115">
+						<path id="Layer" class="s6" d="m990.41 657h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m991.41 658h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-115">
+						<path id="Layer" class="s6" d="m990.41 668h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m991.41 669h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_29-3">
+				<g id="Grupo_14-116">
+					<g id="Retângulo_5-116">
+						<path id="Layer" class="s6" d="m945.41 657h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m946.41 658h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-116">
+						<path id="Layer" class="s6" d="m945.41 668h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m946.41 669h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_30-3">
+				<g id="Grupo_14-117">
+					<g id="Retângulo_5-117">
+						<path id="Layer" class="s6" d="m945.41 680h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m946.41 681h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-117">
+						<path id="Layer" class="s6" d="m945.41 691h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m946.41 692h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_31-3">
+				<g id="Grupo_14-118">
+					<g id="Retângulo_5-118">
+						<path id="Layer" class="s6" d="m990.41 680h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m991.41 681h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-118">
+						<path id="Layer" class="s6" d="m990.41 691h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m991.41 692h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_32-3">
+				<g id="Grupo_14-119">
+					<g id="Retângulo_5-119">
+						<path id="Layer" class="s6" d="m990.41 703h35v14h-35v-14h0z" />
+						<path id="Layer" class="s2" d="m991.41 704h33v12h-33v-12h0z" />
+					</g>
+					<g id="Retângulo_8-119">
+						<path id="Layer" class="s6" d="m990.41 714h35v5h-35v-5h0z" />
+						<path id="Layer" class="s2" d="m991.41 715h33v3h-33v-3h0z" />
+					</g>
+				</g>
+			</g>
+			<g id="Grupo_33-3">
+				<g id="Grupo_14-120">
+					<g id="Retângulo_5-120">
+						<path id="Layer" class="s6" d="m945.41 703h35v14h-35v-14z" />
+						<path id="Layer" class="s2" d="m946.41 704h33v12h-33v-12z" />
+					</g>
+					<g id="Retângulo_8-120">
+						<path id="Layer" class="s6" d="m945.41 714h35v5h-35v-5z" />
+						<path id="Layer" class="s2" d="m946.41 715h33v3h-33v-3z" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="Grupo_100">
+			<g id="União_40-2">
+				<path id="Layer" class="s7" d="m1107.23 760c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-0.02 0-0.04 0-0.06 0l-0.94-0.01l-0.07 0.93c-0.16 2.07-1.09 4-2.61 5.42c-1.54 1.43-3.54 2.22-5.64 2.22c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-2.94 0-5.63-1.72-6.87-4.39l-1.07-2.31l-0.79 2.42c-0.54 1.65-1.56 3.06-2.96 4.1c-1.43 1.05-3.13 1.61-4.91 1.61c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-2.99 0-5.42-2.43-5.42-5.42c0-1 0.27-1.98 0.79-2.83l0.55-0.9l-0.92-0.5c-2.9-1.58-4.7-4.6-4.7-7.9c0-3 1.49-5.78 3.97-7.46l0.6-0.41l-0.2-0.7c-0.07-0.23-0.1-0.47-0.1-0.71c0-1.28 0.95-2.37 2.21-2.54l1.06-0.15l-0.22-1.05c-0.13-0.64-0.2-1.31-0.2-1.97c0-5.35 4.35-9.7 9.7-9.7c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c2.16 0 4.11 1.1 5.24 2.94l0.56 0.92l0.87-0.63c1.65-1.18 3.6-1.81 5.64-1.81c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.27 0 2.49 0.39 3.53 1.12c1.01 0.72 1.78 1.71 2.21 2.86l0.55 1.47l1.1-1.12c1.84-1.87 4.3-2.9 6.92-2.9c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.47 0 2.9 0.53 4.01 1.5c1.1 0.95 1.83 2.27 2.05 3.7l0.1 0.66l0.65 0.16c2.21 0.55 4.22 1.85 5.64 3.65c1.47 1.85 2.24 4.09 2.24 6.46c0 0.81-0.09 1.62-0.28 2.41l-0.16 0.67l0.57 0.39c1.7 1.14 2.72 3.05 2.72 5.09c0 2.01-0.99 3.89-2.64 5.04l-0.55 0.38l0.14 0.65c0.13 0.58 0.19 1.17 0.19 1.77c0 4.42-3.45 8.05-7.86 8.26l-1.2 0.06l0.28 1.17c0.15 0.63 0.22 1.27 0.22 1.92c0 4.56-3.71 8.27-8.27 8.27c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7l0.03-0.03z" />
+				<path id="Layer" fill-rule="evenodd" class="s8" d="m1107.23 761c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.29 0.04-0.6 0.06-0.9 0.05c-0.36 4.79-4.37 8.56-9.25 8.56c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-3.45 0-6.42-2.04-7.78-4.97c-1.21 3.72-4.7 6.4-8.82 6.4c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.27 0.03-0.54 0.05-0.82 0.05c-3.55 0-6.42-2.87-6.42-6.42c0-1.23 0.34-2.37 0.94-3.35c-3.11-1.69-5.22-4.99-5.22-8.78c0-3.45 1.75-6.5 4.42-8.29c-0.09-0.31-0.14-0.64-0.14-0.98c0-1.8 1.34-3.29 3.08-3.53c-0.14-0.7-0.22-1.43-0.22-2.17c0-5.91 4.79-10.7 10.7-10.7c0.64 0 1.26 0.05 1.86 0.16c1.77-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c2.58 0 4.84 1.37 6.09 3.42c1.75-1.26 3.9-1.99 6.22-1.99c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.06 0 5.67 1.92 6.68 4.63c1.94-1.98 4.64-3.2 7.63-3.2c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.57 0 6.53 2.62 7.05 6.05c4.96 1.24 8.64 5.72 8.64 11.07c0 0.91-0.11 1.79-0.31 2.64c1.9 1.28 3.16 3.46 3.16 5.92c0 2.43-1.21 4.57-3.07 5.86c0.14 0.64 0.21 1.3 0.21 1.99c0 4.97-3.9 9.02-8.81 9.26c0.16 0.69 0.25 1.41 0.25 2.15c0 5.12-4.15 9.27-9.27 9.27c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9l0.02-0.03zm0-2c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c4.01 0 7.27-3.26 7.27-7.27c0-0.57-0.07-1.14-0.2-1.69l-0.56-2.34l2.4-0.12c3.87-0.19 6.91-3.38 6.91-7.26c0-0.53-0.06-1.05-0.17-1.56l-0.28-1.31l1.1-0.76c1.38-0.96 2.21-2.54 2.21-4.22c0-1.71-0.85-3.31-2.27-4.26l-1.15-0.77l0.32-1.35c0.17-0.71 0.25-1.44 0.25-2.18c0-2.14-0.7-4.16-2.03-5.84c-1.29-1.63-3.1-2.8-5.1-3.3l-1.29-0.32l-0.2-1.32c-0.18-1.2-0.79-2.3-1.72-3.1c-0.93-0.81-2.12-1.25-3.36-1.25c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-2.35 0-4.56 0.92-6.21 2.6l-2.2 2.24l-1.1-2.94c-0.75-1.99-2.68-3.33-4.81-3.33c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-1.83 0-3.58 0.56-5.06 1.62l-1.75 1.25l-1.12-1.84c-0.94-1.54-2.58-2.46-4.39-2.46c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.44 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-4.8 0-8.7 3.9-8.7 8.7c0 0.6 0.06 1.19 0.18 1.77l0.43 2.09l-2.12 0.29c-0.77 0.11-1.35 0.77-1.35 1.55c0 0.15 0.02 0.29 0.06 0.43l0.4 1.4l-1.2 0.81c-2.21 1.49-3.53 3.97-3.53 6.63c0 2.93 1.6 5.62 4.18 7.02l1.85 1.01l-1.1 1.8c-0.42 0.69-0.65 1.49-0.65 2.3c0 2.44 1.98 4.42 4.42 4.42c0.19 0 0.38-0.01 0.57-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.57 0 3.06-0.49 4.31-1.42c1.23-0.91 2.13-2.16 2.61-3.6l1.58-4.85l2.14 4.63c1.07 2.32 3.41 3.81 5.96 3.81c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.85 0 3.61-0.69 4.96-1.95c1.34-1.25 2.16-2.94 2.3-4.76l0.14-1.87l1.87 0.02c0.21 0 0.42-0.01 0.62-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29l0.05 0.01z" />
+			</g>
+			<path id="Linha_6-9" class="s5" d="m1039.91 731.5v45" />
+			<path id="Linha_7-9" class="s5" d="m1039.91 751.5l11-8" />
+			<path id="Linha_8-9" class="s5" d="m1039.91 745.5l-10-8" />
+			<path id="Linha_6-10" class="s5" d="m1072.91 731.5v45" />
+			<path id="Linha_7-10" class="s5" d="m1072.91 751.5l11-8" />
+			<path id="Linha_8-10" class="s5" d="m1072.91 745.5l-10-8" />
+			<path id="Linha_6-11" class="s5" d="m1107.91 731.5v45" />
+			<path id="Linha_7-11" class="s5" d="m1107.91 751.5l11-8" />
+			<path id="Linha_8-11" class="s5" d="m1107.91 745.5l-10-8" />
+		</g>
+		<g id="Grupo_110">
+			<g id="Retângulo_369-6">
+				<path id="Layer" class="s3" d="m924.41 774c0-0.55 0.45-1 1-1h10c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-10c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m924.91 774c0-0.28 0.22-0.5 0.5-0.5h10c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-10c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-6" class="s10" d="m930.41 773v-39.41c0.03-0.65 0.18-1.28 0.46-1.86c0.28-0.58 0.67-1.11 1.15-1.53c0.48-0.43 1.05-0.76 1.66-0.96c0.61-0.21 1.26-0.28 1.9-0.23c5.08-0.05 4.46 4.59 4.46 4.59" />
+			<g id="Elipse_43-6">
+				<path id="Layer" class="s3" d="m940.41 742c-1.66 0-3-0.89-3-2c0-1.11 1.34-2 3-2c1.66 0 3 0.89 3 2c0 1.11-1.34 2-3 2z" />
+				<path id="Layer" class="s9" d="m940.41 741.5c-1.38 0-2.5-0.67-2.5-1.5c0-0.83 1.12-1.5 2.5-1.5c1.38 0 2.5 0.67 2.5 1.5c0 0.83-1.12 1.5-2.5 1.5z" />
+			</g>
+			<path id="Caminho_12-6" class="s11" d="m938.77 733.52h3.07l4.18 6.03h-11.38l4.13-6.03z" />
+			<path id="Linha_9-6" class="s12" d="m940.91 743.5v4" />
+			<path id="Linha_10-6" class="s12" d="m935.91 742.5l-3 3" />
+		</g>
+		<g id="Grupo_111">
+			<g id="Retângulo_369-7">
+				<path id="Layer" class="s3" d="m913.15 774c0-0.55 0.45-1 1-1h8.26c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-8.26c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m913.65 774c0-0.28 0.22-0.5 0.5-0.5h8.26c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-8.26c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-7" class="s10" d="m910.04 733.59c0 0-0.53-4.64 3.82-4.59c4.35 0.05 4.42 4.59 4.42 4.59v39.41" />
+			<g id="Elipse_43-7">
+				<path id="Layer" class="s3" d="m909.73 742c-1.42 0-2.57-0.89-2.57-2c0-1.11 1.15-2 2.57-2c1.42 0 2.56 0.89 2.56 2c0 1.11-1.15 2-2.56 2z" />
+				<path id="Layer" class="s9" d="m909.73 741.5c-1.14 0-2.07-0.67-2.07-1.5c0-0.83 0.92-1.5 2.07-1.5c1.14 0 2.06 0.67 2.06 1.5c0 0.83-0.92 1.5-2.06 1.5z" />
+			</g>
+			<path id="Caminho_12-7" class="s11" d="m914.66 739.54h-9.73l3.58-6.03h2.63l3.53 6.03h-0.01z" />
+			<path id="Linha_9-7" class="s12" d="m909.3 743.5v4" />
+			<path id="Linha_10-7" class="s12" d="m913.58 742.5l2.57 3" />
+			<path id="Linha_11-7" class="s12" d="m905.88 742.5l-2.57 3" />
+		</g>
+		<g id="Poste_de_Luz">
+			<g id="Retângulo_369-8">
+				<path id="Layer" class="s3" d="m1145.15 779c0-0.55 0.45-1 1-1h8.26c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-8.26c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m1145.65 779c0-0.28 0.22-0.5 0.5-0.5h8.26c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-8.26c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-8" class="s10" d="m1142.04 738.59c0 0-0.53-4.64 3.82-4.59c4.35 0.05 4.42 4.59 4.42 4.59v39.41" />
+			<g id="Elipse_43-8">
+				<path id="Layer" class="s3" d="m1141.73 747c-1.42 0-2.57-0.89-2.57-2c0-1.11 1.15-2 2.57-2c1.42 0 2.57 0.89 2.57 2c0 1.11-1.15 2-2.57 2z" />
+				<path id="Layer" class="s9" d="m1141.73 746.5c-1.14 0-2.07-0.67-2.07-1.5c0-0.83 0.92-1.5 2.07-1.5c1.14 0 2.07 0.67 2.07 1.5c0 0.83-0.92 1.5-2.07 1.5z" />
+			</g>
+			<path id="Caminho_12-8" class="s11" d="m1146.66 744.54h-9.73l3.58-6.03h2.63l3.53 6.03h-0.01z" />
+			<path id="Linha_9-8" class="s12" d="m1141.3 748.5v4" />
+			<path id="Linha_10-8" class="s12" d="m1145.58 747.5l2.57 3" />
+			<path id="Linha_11-8" class="s12" d="m1137.88 747.5l-2.57 3" />
+		</g>
+		<g id="casa">
+			<g id="Retângulo_372">
+				<path id="Layer" class="s1" d="m1170.41 717h98v65h-98v-65z" />
+				<path id="Layer" class="s14" d="m1171.41 718h96v63h-96v-63z" />
+			</g>
+			<g id="Retângulo_373">
+				<path id="Layer" class="s6" d="m1236.41 741h19v31h-19v-31z" />
+				<path id="Layer" class="s2" d="m1237.41 742h17v29h-17v-29z" />
+			</g>
+			<g id="Retângulo_374">
+				<path id="Layer" class="s1" d="m1232.41 766h4v15h-4v-15z" />
+				<path id="Layer" class="s15" d="m1232.91 766.5h3v14h-3v-14z" />
+			</g>
+			<g id="Retângulo_375">
+				<path id="Layer" class="s1" d="m1255.41 766h4v15h-4v-15z" />
+				<path id="Layer" class="s15" d="m1255.91 766.5h3v14h-3v-14z" />
+			</g>
+			<g id="Retângulo_376">
+				<path id="Layer" class="s1" d="m1235.41 771h21v4h-21v-4z" />
+				<path id="Layer" class="s15" d="m1235.91 771.5h20v3h-20v-3z" />
+			</g>
+			<g id="Retângulo_377">
+				<path id="Layer" class="s1" d="m1235.41 774h21v4h-21v-4z" />
+				<path id="Layer" class="s15" d="m1235.91 774.5h20v3h-20v-3z" />
+			</g>
+			<g id="Retângulo_379">
+				<path id="Layer" class="s1" d="m1235.41 777h21v4h-21v-4z" />
+				<path id="Layer" class="s15" d="m1235.91 777.5h20v3h-20v-3z" />
+			</g>
+			<g id="Elipse_53">
+				<path id="Layer" class="s1" d="m1239.91 759c-0.83 0-1.5-0.67-1.5-1.5c0-0.83 0.67-1.5 1.5-1.5c0.83 0 1.5 0.67 1.5 1.5c0 0.83-0.67 1.5-1.5 1.5z" />
+				<path id="Layer" class="s15" d="m1239.91 758.5c-0.55 0-1-0.45-1-1c0-0.55 0.45-1 1-1c0.55 0 1 0.45 1 1c0 0.55-0.45 1-1 1z" />
+			</g>
+			<g id="Retângulo_380">
+				<path id="Layer" class="s6" d="m1180.41 741h41v17h-41v-17z" />
+				<path id="Layer" class="s2" d="m1181.41 742h39v15h-39v-15z" />
+			</g>
+			<g id="Retângulo_381">
+				<path id="Layer" class="s6" d="m1170.41 698h98v35h-98v-35z" />
+				<path id="Layer" class="s14" d="m1171.41 699h96v33h-96v-33z" />
+			</g>
+			<g id="Retângulo_382">
+				<path id="Layer" class="s1" d="m1179.41 688h13v28h-13v-28z" />
+				<path id="Layer" class="s16" d="m1179.91 688.5h12v27h-12v-27z" />
+			</g>
+			<g id="Retângulo_383">
+				<path id="Layer" class="s6" d="m1190.41 741h11v17h-11v-17z" />
+				<path id="Layer" class="s2" d="m1191.41 742h9v15h-9v-15z" />
+			</g>
+			<g id="Retângulo_384">
+				<path id="Layer" class="s6" d="m1200.41 741h11v17h-11v-17z" />
+				<path id="Layer" class="s2" d="m1201.41 742h9v15h-9v-15z" />
+			</g>
+		</g>
+		<g id="Poste_de_Luz-2">
+			<g id="Retângulo_369-9">
+				<path id="Layer" class="s3" d="m1292.41 779c0-0.55 0.45-1 1-1h10c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-10c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m1292.91 779c0-0.28 0.22-0.5 0.5-0.5h10c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-10c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-9" class="s10" d="m1298.41 778v-39.41" />
+			<g id="Elipse_67">
+				<path id="Layer" class="s3" d="m1298.41 750c-3.32 0-6-2.68-6-6c0-3.32 2.68-6 6-6c3.32 0 6 2.68 6 6c0 3.32-2.68 6-6 6z" />
+				<path id="Layer" class="s9" d="m1298.41 749.5c-3.04 0-5.5-2.46-5.5-5.5c0-3.04 2.46-5.5 5.5-5.5c3.04 0 5.5 2.46 5.5 5.5c0 3.04-2.46 5.5-5.5 5.5z" />
+			</g>
+		</g>
+		<g id="Retângulo_392">
+			<path id="Layer" class="s1" d="m1313.41 754h54v20h-54v-20z" />
+			<path id="Layer" class="s16" d="m1313.91 754.5h53v19h-53v-19z" />
+		</g>
+		<g id="Retângulo_385">
+			<path id="Layer" class="s1" d="m1321.41 762h3v18h-3v-18z" />
+			<path id="Layer" class="s16" d="m1321.91 762.5h2v17h-2v-17z" />
+		</g>
+		<g id="Retângulo_386">
+			<path id="Layer" class="s1" d="m1354.41 762h3v18h-3v-18z" />
+			<path id="Layer" class="s16" d="m1354.91 762.5h2v17h-2v-17z" />
+		</g>
+		<g id="Retângulo_387">
+			<path id="Layer" class="s6" d="m1319.41 772h41v3h-41v-3z" />
+			<path id="Layer" class="s16" d="m1319.91 772.5h40v2h-40v-2z" />
+		</g>
+		<g id="Retângulo_388">
+			<path id="Layer" class="s6" d="m1319.41 764h41v7h-41v-7z" />
+			<path id="Layer" class="s16" d="m1319.91 764.5h40v6h-40v-6z" />
+		</g>
+		<g id="Retângulo_390" style="opacity: .6">
+			<path id="Layer" class="s3" d="m1365.41 740h4v41h-4v-41z" />
+			<path id="Layer" class="s16" d="m1365.91 740.5h3v40h-3v-40z" />
+		</g>
+		<g id="Retângulo_391" style="opacity: .6">
+			<path id="Layer" class="s3" d="m1310.41 740h4v41h-4v-41z" />
+			<path id="Layer" class="s16" d="m1310.91 740.5h3v40h-3v-40z" />
+		</g>
+		<g id="Retângulo_389">
+			<path id="Layer" class="s6" d="m1307.41 735h63v16h-63v-16z" />
+			<path id="Layer" class="s16" d="m1308.91 735.5h62v15h-62v-15z" />
+		</g>
+		<g id="Poste_de_Luz-3">
+			<g id="Retângulo_369-10">
+				<path id="Layer" class="s3" d="m1398.41 779c0-0.55 0.45-1 1-1h10c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-10c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m1398.91 779c0-0.28 0.22-0.5 0.5-0.5h10c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-10c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-10" class="s10" d="m1404.41 778v-39.41c0.03-0.65 0.18-1.28 0.46-1.86c0.28-0.58 0.67-1.11 1.15-1.53c0.48-0.43 1.05-0.76 1.66-0.96c0.61-0.21 1.26-0.28 1.9-0.23c5.08-0.05 4.46 4.59 4.46 4.59" />
+			<g id="Elipse_43-9">
+				<path id="Layer" class="s3" d="m1414.41 747c-1.66 0-3-0.89-3-2c0-1.11 1.34-2 3-2c1.66 0 3 0.89 3 2c0 1.11-1.34 2-3 2z" />
+				<path id="Layer" class="s9" d="m1414.41 746.5c-1.38 0-2.5-0.67-2.5-1.5c0-0.83 1.12-1.5 2.5-1.5c1.38 0 2.5 0.67 2.5 1.5c0 0.83-1.12 1.5-2.5 1.5z" />
+			</g>
+			<path id="Caminho_12-9" class="s11" d="m1412.77 738.52h3.07l4.18 6.03h-11.38l4.13-6.03z" />
+			<path id="Linha_9-9" class="s12" d="m1414.91 748.5v4" />
+			<path id="Linha_10-9" class="s12" d="m1409.91 747.5l-3 3" />
+			<path id="Linha_11-9" class="s12" d="m1418.91 747.5l3 3" />
+		</g>
+		<g id="Poste_de_Luz-4">
+			<g id="Retângulo_369-11">
+				<path id="Layer" class="s3" d="m1387.15 779c0-0.55 0.45-1 1-1h8.26c0.55 0 1 0.45 1 1v1c0 0.55-0.45 1-1 1h-8.26c-0.55 0-1-0.45-1-1v-1z" />
+				<path id="Layer" class="s9" d="m1387.65 779c0-0.28 0.22-0.5 0.5-0.5h8.26c0.28 0 0.5 0.22 0.5 0.5v1c0 0.28-0.22 0.5-0.5 0.5h-8.26c-0.28 0-0.5-0.22-0.5-0.5v-1z" />
+			</g>
+			<path id="Caminho_11-11" class="s10" d="m1384.04 738.59c0 0-0.53-4.64 3.82-4.59c4.35 0.05 4.42 4.59 4.42 4.59v39.41" />
+			<g id="Elipse_43-10">
+				<path id="Layer" class="s3" d="m1383.73 747c-1.42 0-2.57-0.89-2.57-2c0-1.11 1.15-2 2.57-2c1.42 0 2.57 0.89 2.57 2c0 1.11-1.15 2-2.57 2z" />
+				<path id="Layer" class="s9" d="m1383.73 746.5c-1.14 0-2.07-0.67-2.07-1.5c0-0.83 0.92-1.5 2.07-1.5c1.14 0 2.07 0.67 2.07 1.5c0 0.83-0.92 1.5-2.07 1.5z" />
+			</g>
+			<path id="Caminho_12-10" class="s11" d="m1388.66 744.54h-9.73l3.58-6.03h2.63l3.53 6.03h-0.01z" />
+			<path id="Linha_9-10" class="s12" d="m1383.3 748.5v4" />
+			<path id="Linha_10-10" class="s12" d="m1387.58 747.5l2.57 3" />
+			<path id="Linha_11-10" class="s12" d="m1379.88 747.5l-2.57 3" />
+		</g>
+		<g id="Três_Árvores">
+			<g id="União_40-3">
+				<path id="Layer" class="s7" d="m1549.23 765c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-0.02 0-0.04 0-0.06 0l-0.94-0.01l-0.07 0.93c-0.16 2.07-1.09 4-2.61 5.42c-1.54 1.43-3.54 2.22-5.64 2.22c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-2.94 0-5.63-1.72-6.87-4.39l-1.07-2.31l-0.79 2.42c-0.54 1.65-1.56 3.06-2.96 4.1c-1.43 1.05-3.13 1.61-4.91 1.61c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7c-2.31 0-4.45-0.93-6.03-2.61l-0.35-0.37l-0.51 0.07c-0.31 0.04-0.64 0.06-0.96 0.06c-1.81 0-3.56-0.65-4.92-1.82c-1.35-1.16-2.26-2.77-2.54-4.52l-0.15-0.95l-0.96 0.12c-0.23 0.03-0.47 0.04-0.7 0.04c-2.99 0-5.42-2.43-5.42-5.42c0-1 0.27-1.98 0.79-2.83l0.55-0.9l-0.92-0.5c-2.9-1.58-4.7-4.6-4.7-7.9c0-3 1.49-5.78 3.97-7.46l0.6-0.41l-0.2-0.7c-0.07-0.23-0.1-0.47-0.1-0.71c0-1.28 0.95-2.37 2.21-2.54l1.06-0.15l-0.22-1.05c-0.13-0.64-0.2-1.31-0.2-1.97c0-5.35 4.35-9.7 9.7-9.7c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c2.16 0 4.11 1.1 5.24 2.94l0.56 0.92l0.87-0.63c1.65-1.18 3.6-1.81 5.64-1.81c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.27 0 2.49 0.39 3.53 1.12c1.01 0.72 1.78 1.71 2.21 2.86l0.55 1.47l1.1-1.12c1.84-1.87 4.3-2.9 6.92-2.9c0.57 0 1.14 0.05 1.69 0.15l0.73 0.13l0.34-0.66c0.8-1.57 2.01-2.9 3.51-3.84c1.54-0.97 3.32-1.48 5.15-1.48c1.56 0 3.05 0.36 4.42 1.06c1.31 0.67 2.48 1.66 3.36 2.85l0.34 0.45l0.56-0.05c0.19-0.02 0.39-0.03 0.59-0.03c1.47 0 2.9 0.53 4.01 1.5c1.1 0.95 1.83 2.27 2.05 3.7l0.1 0.66l0.65 0.16c2.21 0.55 4.22 1.85 5.64 3.65c1.47 1.85 2.24 4.09 2.24 6.46c0 0.81-0.09 1.62-0.28 2.41l-0.16 0.67l0.57 0.39c1.7 1.14 2.72 3.05 2.72 5.09c0 2.01-0.99 3.89-2.64 5.04l-0.55 0.38l0.14 0.65c0.13 0.58 0.19 1.17 0.19 1.77c0 4.42-3.45 8.05-7.86 8.26l-1.2 0.06l0.28 1.17c0.15 0.63 0.22 1.27 0.22 1.92c0 4.56-3.71 8.27-8.27 8.27c-0.9 0-1.78-0.14-2.62-0.42l-0.5-0.17l-0.42 0.32c-1.45 1.11-3.19 1.7-5.02 1.7l0.03-0.03z" />
+				<path id="Layer" fill-rule="evenodd" class="s8" d="m1549.23 766c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.29 0.04-0.6 0.06-0.9 0.05c-0.36 4.79-4.37 8.56-9.25 8.56c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-3.45 0-6.42-2.04-7.78-4.97c-1.21 3.72-4.7 6.4-8.82 6.4c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9c-2.66 0-5.07-1.12-6.76-2.92c-0.36 0.05-0.72 0.07-1.09 0.07c-4.26 0-7.79-3.11-8.45-7.18c-0.27 0.03-0.54 0.05-0.82 0.05c-3.55 0-6.42-2.87-6.42-6.42c0-1.23 0.34-2.37 0.94-3.35c-3.11-1.69-5.22-4.99-5.22-8.78c0-3.45 1.75-6.5 4.42-8.29c-0.09-0.31-0.14-0.64-0.14-0.98c0-1.8 1.34-3.29 3.08-3.53c-0.14-0.7-0.22-1.43-0.22-2.17c0-5.91 4.79-10.7 10.7-10.7c0.64 0 1.26 0.05 1.86 0.16c1.77-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c2.58 0 4.84 1.37 6.09 3.42c1.75-1.26 3.9-1.99 6.22-1.99c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.06 0 5.67 1.92 6.68 4.63c1.94-1.98 4.64-3.2 7.63-3.2c0.64 0 1.26 0.05 1.86 0.16c1.76-3.48 5.38-5.87 9.55-5.87c3.51 0 6.63 1.69 8.58 4.31c0.23-0.02 0.46-0.03 0.69-0.03c3.57 0 6.53 2.62 7.05 6.05c4.96 1.24 8.64 5.72 8.64 11.07c0 0.91-0.11 1.79-0.31 2.64c1.9 1.28 3.16 3.46 3.16 5.92c0 2.43-1.21 4.57-3.07 5.86c0.14 0.64 0.21 1.3 0.21 1.99c0 4.97-3.9 9.02-8.81 9.26c0.16 0.69 0.25 1.41 0.25 2.15c0 5.12-4.15 9.27-9.27 9.27c-1.03 0-2.01-0.17-2.93-0.47c-1.56 1.19-3.51 1.9-5.62 1.9l0.02-0.03zm0-2c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c4.01 0 7.27-3.26 7.27-7.27c0-0.57-0.07-1.14-0.2-1.69l-0.56-2.34l2.4-0.12c3.87-0.19 6.91-3.38 6.91-7.26c0-0.53-0.06-1.05-0.17-1.56l-0.28-1.31l1.1-0.76c1.38-0.96 2.21-2.54 2.21-4.22c0-1.71-0.85-3.31-2.27-4.26l-1.15-0.77l0.32-1.35c0.17-0.71 0.25-1.44 0.25-2.18c0-2.14-0.7-4.16-2.03-5.84c-1.29-1.63-3.1-2.8-5.1-3.3l-1.29-0.32l-0.2-1.32c-0.18-1.2-0.79-2.3-1.72-3.1c-0.93-0.81-2.12-1.25-3.36-1.25c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-2.35 0-4.56 0.92-6.21 2.6l-2.2 2.24l-1.1-2.94c-0.75-1.99-2.68-3.33-4.81-3.33c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.43 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-1.83 0-3.58 0.56-5.06 1.62l-1.75 1.25l-1.12-1.84c-0.94-1.54-2.58-2.46-4.39-2.46c-0.17 0-0.34 0.01-0.5 0.02l-1.12 0.11l-0.67-0.9c-0.79-1.07-1.84-1.95-3.02-2.55c-1.23-0.63-2.57-0.95-3.97-0.95c-1.64 0-3.23 0.46-4.61 1.32c-1.35 0.84-2.44 2.04-3.15 3.45l-0.67 1.32l-1.46-0.26c-0.49-0.09-1.01-0.13-1.52-0.13c-4.8 0-8.7 3.9-8.7 8.7c0 0.6 0.06 1.19 0.18 1.77l0.43 2.09l-2.12 0.29c-0.77 0.11-1.35 0.77-1.35 1.55c0 0.15 0.02 0.29 0.06 0.43l0.4 1.4l-1.2 0.81c-2.21 1.49-3.53 3.97-3.53 6.63c0 2.93 1.6 5.62 4.18 7.02l1.85 1.01l-1.1 1.8c-0.42 0.69-0.65 1.49-0.65 2.3c0 2.44 1.98 4.42 4.42 4.42c0.19 0 0.38-0.01 0.57-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.57 0 3.06-0.49 4.31-1.42c1.23-0.91 2.13-2.16 2.61-3.6l1.58-4.85l2.14 4.63c1.07 2.32 3.41 3.81 5.96 3.81c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29c1.61 0 3.13-0.52 4.41-1.49l0.84-0.64l1.01 0.34c0.74 0.25 1.51 0.37 2.3 0.37c1.85 0 3.61-0.69 4.96-1.95c1.34-1.25 2.16-2.94 2.3-4.76l0.14-1.87l1.87 0.02c0.21 0 0.42-0.01 0.62-0.04l1.92-0.24l0.31 1.91c0.24 1.52 1.03 2.91 2.2 3.92c1.19 1.02 2.7 1.58 4.27 1.58c0.28 0 0.56-0.02 0.83-0.05l1.01-0.13l0.7 0.74c1.39 1.48 3.27 2.29 5.3 2.29l0.05 0.01z" />
+			</g>
+			<path id="Linha_6-12" class="s5" d="m1481.91 736.5v45" />
+			<path id="Linha_7-12" class="s5" d="m1481.91 756.5l11-8" />
+			<path id="Linha_8-12" class="s5" d="m1481.91 750.5l-10-8" />
+			<path id="Linha_6-13" class="s5" d="m1514.91 736.5v45" />
+			<path id="Linha_7-13" class="s5" d="m1514.91 756.5l11-8" />
+			<path id="Linha_8-13" class="s5" d="m1514.91 750.5l-10-8" />
+			<path id="Linha_6-14" class="s5" d="m1549.91 736.5v45" />
+			<path id="Linha_7-14" class="s5" d="m1549.91 756.5l11-8" />
+			<path id="Linha_8-14" class="s5" d="m1549.91 750.5l-10-8" />
+		</g>
+		<g id="Caminho_344">
+			<path id="Layer" class="s3" d="m2119.41 830h-2012v-43h2012v43z" />
+			<path id="Layer" fill-rule="evenodd" class="s13" d="m2120.41 786v45h-2014v-45h2014zm-2012 43h2010v-41h-2010l0 41z" />
+		</g>
+		<g id="Fusca">
+			<g id="Subtração_15">
+			</g>
+			<g id="Subtração_16">
+			</g>
+		</g>
+	</g>
+</svg>

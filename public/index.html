@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.png">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=Intl"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=Node.prototype.contains"></script>
+    
+
+    <!-- FONT-FACE -->
+    <style>
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-BoldItalic.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-BoldItalic.woff') format('woff'),
+               url('includes/fonts/BradescoSans-BoldItalic.eot'),
+               url('includes/fonts/BradescoSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-BoldItalic-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-BoldItalic.svg#BradescoSans-BoldItalic') format('svg');
+          font-weight: bold;
+          font-style: italic;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src:  url('includes/fonts/BradescoSans-Light.woff2') format('woff2'),
+                url('includes/fonts/BradescoSans-Light.woff') format('woff'),
+                url('includes/fonts/BradescoSans-Light.eot'),
+                url('includes/fonts/BradescoSans-Light.eot?#iefix') format('embedded-opentype'),
+                url('includes/fonts/BradescoSans-Light-web.ttf') format('truetype'),
+                url('includes/fonts/BradescoSans-Light.svg#BradescoSans-Light') format('svg');
+          font-weight: 300;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-Bold.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-Bold.woff') format('woff'),
+               url('includes/fonts/BradescoSans-Bold.eot'),
+               url('includes/fonts/BradescoSans-Bold.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-Bold-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-Bold.svg#BradescoSans-Bold') format('svg');
+          font-weight: bold;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-ThinItalic.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-ThinItalic.woff') format('woff'),
+               url('includes/fonts/BradescoSans-ThinItalic.eot'),
+               url('includes/fonts/BradescoSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-ThinItalic-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-ThinItalic.svg#BradescoSans-ThinItalic') format('svg');
+          font-weight: 100;
+          font-style: italic;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-Regular.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-Regular.woff') format('woff'),
+               url('includes/fonts/BradescoSans-Regular.eot'),
+               url('includes/fonts/BradescoSans-Regular.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-Regular-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-Regular.svg#BradescoSans-Regular') format('svg');
+          font-weight: normal;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-SemiBoldItalic.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-SemiBoldItalic.woff') format('woff'),
+               url('includes/fonts/BradescoSans-SemiBoldItalic.eot'),
+               url('includes/fonts/BradescoSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-SemiBoldItalic-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-SemiBoldItalic.svg#BradescoSans-SemiBoldItalic') format('svg');
+          font-weight: 600;
+          font-style: italic;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans XBold';
+          src: url('includes/fonts/BradescoSans-XBoldItalic.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-XBoldItalic.woff') format('woff'),
+               url('includes/fonts/BradescoSans-XBoldItalic.eot'),
+               url('includes/fonts/BradescoSans-XBoldItalic.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-XBoldItalic-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-XBoldItalic.svg#BradescoSans-XBoldItalic') format('svg');
+          font-weight: bold;
+          font-style: italic;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans Condensed';
+          src: url('includes/fonts/BradescoSans-CondensedBold.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-CondensedBold.woff') format('woff'),
+               url('includes/fonts/BradescoSans-CondensedBold.eot'),
+               url('includes/fonts/BradescoSans-CondensedBold.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-CondensedBold-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-CondensedBold.svg#BradescoSans-CondensedBold') format('svg');
+          font-weight: bold;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-LightItalic.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-LightItalic.woff') format('woff'),
+               url('includes/fonts/BradescoSans-LightItalic.eot'),
+               url('includes/fonts/BradescoSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-LightItalic-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-LightItalic.svg#BradescoSans-LightItalic') format('svg');
+          font-weight: 300;
+          font-style: italic;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-MediumItalic.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-MediumItalic.woff') format('woff'),
+               url('includes/fonts/BradescoSans-MediumItalic.eot'),
+               url('includes/fonts/BradescoSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-MediumItalic-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-MediumItalic.svg#BradescoSans-MediumItalic') format('svg');
+          font-weight: 500;
+          font-style: italic;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-SemiBold.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-SemiBold.woff') format('woff'),
+               url('includes/fonts/BradescoSans-SemiBold.eot'),
+               url('includes/fonts/BradescoSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-SemiBold-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-SemiBold.svg#BradescoSans-SemiBold') format('svg');
+          font-weight: 600;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-Medium.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-Medium.woff') format('woff'),
+               url('includes/fonts/BradescoSans-Medium.eot'),
+               url('includes/fonts/BradescoSans-Medium.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-Medium-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-Medium.svg#BradescoSans-Medium') format('svg');
+          font-weight: 500;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans XBold';
+          src: url('includes/fonts/BradescoSans-XBold.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-XBold.woff') format('woff'),
+               url('includes/fonts/BradescoSans-XBold.eot'),
+               url('includes/fonts/BradescoSans-XBold.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-XBold-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-XBold.svg#BradescoSans-XBold') format('svg');
+          font-weight: bold;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-Thin.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-Thin.woff') format('woff'),
+               url('includes/fonts/BradescoSans-Thin.eot'),
+               url('includes/fonts/BradescoSans-Thin.eot?#iefix') format('embedded-opentype'),
+               url('includes/fonts/BradescoSans-Thin-web.ttf') format('truetype'),
+               url('includes/fonts/BradescoSans-Thin.svg#BradescoSans-Thin') format('svg');
+          font-weight: 100;
+          font-style: normal;
+          font-display: swap;
+      }
+
+      @font-face {
+          font-family: 'Bradesco Sans';
+          src: url('includes/fonts/BradescoSans-Italic.woff2') format('woff2'),
+               url('includes/fonts/BradescoSans-Italic.woff') format('woff');
+          font-weight: normal;
+          font-style: italic;
+          font-display: swap;
+      }
+    </style>
+
+    <title>Central de Sinistros RE</title>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <input type="hidden" name="urlComuniqueAvisoCorretor" value="http://localhost:8080/GSRE-CentralSinistroRE/abrirCentralSinistroCorretor.do?ctrl=null&cd_cgccpf=7518765&id_cia=null&nome=Maxwell%20de%20Matos%20Barros28163003000165">
+    <input type="hidden" name="urlComuniqueAvisoSegurado" value="https://wwws.dsv.bradescoseguros.com.br/SARE-AvisoSinistro/login-internet-100corretor.do">
+
+    <!-- <input type='hidden' name='perfilAcesso' value='CORRETOR'> -->
+  </body>
+</html>
